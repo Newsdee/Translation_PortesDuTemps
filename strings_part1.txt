@@ -1,0 +1,2978 @@
+ascii
+
+# "RX-22 s'adresse a vous..."
+@187515-25=RX-22 speaks to you...
+
+# "Votre longue quete a travers l'Histoire prend fin ici. RX-22, desespere, en a presque les larmes aux yeux... Vous mourrez d'epuisement, apres avoir jete vos ultimes forces dans cette bataille contre le temps, entrainant ainsi avec vous ineluctablement, des millions d'individus"
+#@187541-277=
+
+# "     ......Pressez une touche pour continuer......"
+@187843-50=     ......Press any key to continue ......
+
+# "Inserez la disquette 0"
+@187918-22=Insert Disk 0
+
+# "puis appuyez sur <ENTER>"
+@187941-24=then press <ENTER>
+
+# "Les Portes du Temps"
+@187974-19=The Doors Of Time
+
+# "--------------------"
+@187994-20=\------------------/
+
+# "(1) - Version CGA"
+@188015-17=CGA Version
+
+# "(2) - Version EGA"
+@188033-17=EGA Version
+
+# "(3) - Version VGA"
+@188051-17=VGA Version
+
+# "Entrez votre choix : "
+@188069-22=Select Graphics :
+
+# " Inserez la disquette 3 "
+@188098-24= Insert Disk 3
+
+# "puis appuyez sur <ENTER>"
+@188123-30=then press <ENTER>
+
+# "Vous connaissez le meme sort que votre ami le  robot... Vous vous transformez en bloc de glace"
+@188518-94=You meet the same fate as your robotic companion... you became a block of ice
+
+# "Entrez le numero de la partie"
+@188628-29=Enter save game number
+
+# "<1> <2>"
+#@188658-7=
+
+# "ou"
+@188666-2=or
+
+# "<ESC>"
+#@188669-5=
+
+# "pour annuler"
+@188675-12=to cancel
+
+# "Indiquez le numero dans"
+@188690-23=Enter the number in the
+
+# "  le glossaire du mot"
+@188714-21=word glossary
+
+# "Chargement d'une partie"
+@188740-23=Load Saved Game
+
+# "Erreur de chargement"
+@188768-22=Error Loading Game
+
+# "Sauvegarde d'une partie"
+@188795-23=Save current game
+
+# "Erreur de sauvegarde"
+@188819-20=Game save error
+
+# "Verifiez que la disquette n'est pas protegee en ecriture"
+@188840-56=Please check disk write protection
+
+# "Redefinition de la touche Fxx"
+@188897-29=Redefine key Fxx
+
+# "Entrez le nouveau texte :"
+@188931-25=Enter new text entry:
+
+# "Voulez-vous quitter ?"
+@188974-21=Do you want to quit?
+
+# "Voulez-vous rejouer ?"
+#@188996-21=Play again?
+
+# "Heure : "
+#@189030-13=Time : 
+
+# "Je ne vois pas ce que vous voulez dire"
+@189044-38=I don't understand what you mean
+
+# "Essayez autre chose."
+@189083-20=Try something else
+
+# "Cet objet n'est pas en votre possession"
+@189104-39=You do not have that object
+
+# "Vous n'en avez pas les moyens"
+@189144-29=You have no way to do that
+
+# "Il n'y a pas d'issue dans cette direction"
+@189174-41=There is no exit that way
+
+# "Vous ne pouvez pas aller par la"
+@189216-31=You cannot go that way
+
+# "Cette direction est impossible"
+@189248-30=That direction is impossible
+
+# "Chaque chose en son temps"
+@189279-25=Everything in due time...
+
+# "Refere toi a ton ordre de mission"
+@189305-33=Refer to your mission orders
+
+# "Vous possedez deja l'objet en question"
+@189339-38=You already have that object
+
+# "C'etait imprudent de votre part de traverser. Vous etes victime de la charge d'un des mammouths"
+@189378-95=It was foolish to try to cross. You are hit by a mammoth stampede
+
+# "Tout danger est ecarte. Vous passez maintenant sans difficultes"
+@189474-63=All clear, there is no danger. You can pass without trouble.
+
+# "Vous etes bien imprudent, le serpent vous mord"
+@189538-46=You are quite careless... the snake bites you
+
+# "Les gardes vous repoussent violemment et vous demandent de rester loin d'eux"
+@189585-76=The guards push you back violently and demand that you stay away from them
+
+# "Ce n'est pas faute d'avoir ete prevenu. Alors que vous vous appretiez a mettre le pied a terre, votre cheval se cabre a nouveau. Surpris, vous perdez le controle de l'animal fougueux qui s'enfuit au galop dans la campagne japonaise."
+@189662-232=You were warned. As you were dismounting, your horse suddenly rears. Surprised, you lose control of the animal who runs away gallopping in the Japanese countryside.
+
+# "Le magistrat ne recoit pas a cette heure-ci"
+@189895-43=The magistrate isn't available at this hour
+
+# "Pas la peine d'essayer ! Tu reveillerais l'attention des gardes et tu risquerais de mettre ta vie en peril. Ne sais-tu pas qu'un samourai est capable de sentir la presence d'un adversaire ?"
+@189939-189=No point in trying! You will get the guard's attention and put your life in peril. Don't you know a samurai can sense the presence of an enemy?
+
+# "La porte est fermee. C'est Stroff qui a du problablement la fermer afin de proteger son maitre"
+@190129-94=The door is closed. Stroff probably closed it to protect his master.
+
+# "Un systeme de code regit l'ouverture de la porte, vous ne pouvez pas aller plus loin"
+@190224-84=A code system controls the door. You cannot go any further.
+
+# "Embourbe dans la riziere, vous decidez de revenir sur vos pas"
+@190309-61=Bogged down in the rice fields, you decide to go back
+
+# "175 metres plus loin..."
+@190371-23=173 meters further...
+
+# "Vous etes inconscient de vous aventurer si loin de la base. Vous tombez dans l'eau et vous mourrez congestionne"
+@190395-111=You are crazy to want to venture so far of the base. You fall into the water and die of congestion
+
+# "Un garde vous empeche d'entrer dans le temple et vous rappelle que vous n'avez plus le droit de penetrer dans l'edifice sacre"
+@190507-125=A guard prevents you from entering the temple, and reminds you don't have the right to enter the sacred building
+
+# "Des yorikis surpris de vous voir dans la propriete de leur maitre se jettent sur vous et vous transpercent de leur sabre"
+@190633-120=A crew of Yorikis, surprised to see you in their master's property, surround you and quickly slash you with their swords
+
+# "La chapelle des pretres est fermee a cette heure-ci"
+@190754-51=The priest's chapel is closed at this hour
+
+# "La porte est fermee"
+@190806-19=The door is locked
+
+# "Quelle erreur vous faites ! Vous penetrez dans les appartements reserves aux hommes d'armes de l'empereur. Une partie de la garnison de Huascar vous tombe dessus..."
+@190826-164=What a mistake! You enter in the abode of the emperor's armed men. A group of Huascar's garrison turn you into mince meat.
+
+# "Vous penetrez dans une zone temporelle. Avant, vous prenez le soin de deposer votre uncu de facon a le retrouver en revenant dans ce lieu. Vous etes ramenes en 2113 au coeur de la base Neuronix"
+@190991-193=You enter a temporal zone. Before hand, you take care to put your Uncu down in order to find it again when coming back to this place. You are brought to 2113 to the heart of the Neuronix base
+
+# "La surcharge due a la presence de votre cheval, provoque un court-circuit dans le systeme temporel. Vous etes desintegre"
+@191185-120=The presence of your horse causes a short-circuit in the temporal matrix. You are disintegrated.
+
+# "Vous penetrez dans une zone temporelle. Vous etes ramenes en 2113 au coeur de la base Neuronix"
+@191306-94=You enter a temporal zone. You are brought back in 2113 into the heart of the Neuronix base
+
+# "Votre seau magique n'a pas supporte le voyage temporel. Il s'est desintegre"
+@191401-75=Your magic seal did not stand the temporal voyage, and disintegrated
+
+# "Le garde ne vous autorise pas a penetrer dans la grotte"
+@191477-55=The guard does not allow you to enter the cave
+
+# "Le magasin de masques est ferme"
+@191533-31=The mask shop is closed
+
+# "Les bains sont fermes a cette heure"
+@191565-35=The baths are closed at this hour
+
+# "Nous n'avons rien a faire dans cette direction. Notre objectif est d'atteindre Edo et non Kyoto"
+@191601-95=There is nothing for us to do in that direction. Our objective is to get to Edo, not Kyoto
+
+# "Vous ne pouvez plus aller dans le magasin de masques du marchand Kuniratado. Il ne vous autorise pas a entrer dans sa boutique"
+@191697-126=You can no longer go to the mask shop of merchant Kuniratado. He does not allow you to enter the store
+
+# "En fermant les yeux, vous franchissez le mur. Comme la plupart des illusions, elle n'est un obstacle que si vous la voyez"
+@191824-121=Closing your eyes, you cross the wall. Like most illusions, it is only an obstacle if you can see it
+
+# "Au dernier moment, vous apercevez un mur illusion. Vous vous heurtez a un champ de force negatif"
+@191946-96=At the last moment, you glimpse an illusory wall. You hit a negative force field
+
+# "L'ecole des Yacahuasi est fermee pendant la ceremonie du Raymi"
+@192043-62=The school of the Yacahuasi is closed during the Raymi ceremony
+
+# "Desole, nous ne pouvons pas vous laisser passer sans certificat cachete. Adressez-vous aux autorites competentes. Elles vous delivreront le present document"
+#@192106-156=
+
+# "Kyotmitso examine votre certificat de circulation : "C'est bon, vous pouvez passer""
+#@192263-83=
+
+# "La porte du laboratoire de l'alchimiste est fermee a cette heure ci"
+#@192347-67=
+
+# "Le theatre est ferme. Il est  ouvert seulement tard le soir et pendant une bonne partie de la nuit"
+#@192415-98=
+
+# "L'entree des loges du theatre Kabuki vous est desesperement bloquee. Deux hommes vous repoussent violemment"
+#@192514-107=
+
+# "Les gardes des loges du theatre Kabuki vous prennent pour une actrice et vous laissent passer"
+#@192622-93=
+
+# "En fermant les yeux, vous franchissez le mur. Comme la plupart des illusions, elle n'est un obstacle que si vous la voyez"
+#@192716-121=
+
+# "En essayant de franchir un mur illusion, vous vous heurtez a un champ de force negatif"
+#@192838-86=
+
+# "Les arbres vous en empechent"
+#@192925-28=
+
+# "Vous etes deja sur le dos du cheval"
+#@192954-35=
+
+# "Il n'est pas a votre portee"
+#@192990-27=
+
+# "Nessie est peu enclin a vous accepter sur son dos"
+#@193018-49=
+
+# "Le mammouth ne l'entend pas ainsi et vous assene un coup de trompe"
+#@193068-66=
+
+# "La paroi est trop abrupte"
+#@193135-25=
+
+# "L'escalade de cette paroi est trop dangereuse"
+#@193161-45=
+
+# "Vous etes deja en haut de l'escalier"
+#@193207-36=
+
+# "Vous poussez la pirogue et vous vous installez a l'interieur. Aussitot, le courant vous emporte"
+#@193244-95=
+
+# "Je ne sais pas si tu te rends compte, mais les murs  du chateau sont a plus de 200 metres de distance"
+#@193340-101=
+
+# "Vous escaladez a nouveau l'enceinte du chateau"
+#@193442-46=
+
+# "N'oubliez pas avant de revetir vos griffes"
+#@193489-42=
+
+# "Grace a vos griffes munies de crampons d'acier, vous escaladez les parois du chateau, tel un vrai ninja, avec RX-22 sur votre dos. Vous vous retrouvez dans l'enceinte du chateau. Une fois au sommet du mur, vous vous laissez tomber et atterrissez sur le sol"
+#@193532-256=
+
+# "Soyez plus precis"
+#@193789-17=
+
+# "Je ne sais pas si tu te rends compte des distances, mais l'escalade de ces montagnes represente une depense d'energie tres importante que nous ne pouvons nous permettre"
+#@193807-168=
+
+# "Vous escaladez la paroi de la montagne avec aisance, echappant ainsi de justesse a l'horrible Kong. Vous n'etes pas au bout de vos peines : les lianes ne vont pas jusqu'en haut de la paroi."
+#@193976-189=
+
+# "Cependant apres de multiples efforts, vous parvenez a aggriper le haut du dernier rocher"
+#@194166-88=
+
+# "Vous escaladez la paroi de la montagne avec difficultes. Kong, qui vous a vu vous defiler, vous saisit de sa grosse main poilue et ne fait qu'une bouchee de vous..."
+#@194255-164=
+
+# "Soyez plus precis..."
+#@194420-20=
+
+# "Vous montez dans l'arbre avec une facilite deconcertante, avec RX-22 sur votre dos"
+#@194441-82=
+
+# "Vous empruntez un escalier tres sombre"
+#@194524-38=
+
+# "Cela ne nous servirait a rien. Une pierre bloque le passage en haut de l'escalier"
+#@194563-81=
+
+# "Vous montez l'escalier et vous accedez enfin a l'air libre"
+#@194645-58=
+
+# "Tu as autre chose a faire que de jouer aux chimpanzes sur les tours du chateau"
+#@194704-78=
+
+# "Vous empruntez l'escalier d'un passage secret"
+#@194783-45=
+
+# "Vous remontez a la surface de l'eau"
+#@194829-35=
+
+# "Garde les pieds sur terre"
+#@194865-25=
+
+# "Il est impossible de monter ici"
+#@194891-31=
+
+# "A votre grand etonnement, vous evoluez dans le milieu aquatique. Heureusement que vos objets sont proteges dans votre combinaison en lateoide. RX-22 s'est enveloppe d'une plastobulloide comprimee afin de pouvoir vous accompagner sous l'eau en securite"
+#@194923-251=
+
+# "Vous descendez dans la penombre"
+#@195175-31=
+
+# "En tentant d'attraper les lianes, vous basculez dans le vide"
+#@195207-60=
+
+# "Vous perdez l'equilibre en tentant de saisir des lianes juste au-dessous de vous. Vous vous ecrasez au fond de la vallee"
+#@195268-120=
+
+# "Vous vous evanouissez sous la violence des flots tumultueux de la cascade"
+#@195389-73=
+
+# "Vous descendez de l'arbre avec une facilite deconcertante."
+#@195463-58=
+
+# "Vous empruntez un escalier tres sombre"
+#@195522-38=
+
+# "A l'aide de son casque halogene, RX-22 eclaire vos pas"
+#@195561-54=
+
+# "Ce n'est pas faute d'avoir ete prevenu. Alors que vous vous appretiez a mettre le pied a terre, votre cheval se cabre a nouveau. Surpris, vous perdez le controle de l'animal fougueux qui s'enfuit au galop dans la campagne japonaise."
+#@195616-232=
+
+# "Vous possedez deja cet objet"
+#@195849-28=
+
+# "Ne t'aventure pas a derober la propriete d'autrui"
+#@195878-49=
+
+# "Vous etes bien imprudent, le serpent vous mord"
+#@195928-46=
+
+# "Tu as suffisament d'armes, et puis le katana ne te servirait a rien"
+#@195975-67=
+
+# "Elle est solidement fixee sur son socle"
+#@196043-39=
+
+# "Vous vous brulez"
+#@196083-16=
+
+# "Elles sont solidement fixees"
+#@196100-28=
+
+# "Elle n'est pas a votre taille..."
+#@196129-32=
+
+# "Vous ne pouvez pas. Un sort magique veille sur la bougie"
+#@196162-56=
+
+# "Vous ne pouvez pas. La cire qui a coule abondamment a soude la bougie au tabouret"
+#@196219-81=
+
+# "Malheureux, tu veux commettre un sacrilege et  eveiller l'attention sur nous. Ne sais-tu pas que nous nous trouvons dans un lieu sacre ?"
+#@196301-136=
+
+# "Les champignons sont veneneux. Ils ne te seraient d'aucune utilite"
+#@196438-66=
+
+# "Le tronc est leur royaume. Ils en connaissent tous les recoins. Vous n'avez aucune chance de les attraper"
+#@196505-105=
+
+# "Les acteurs Kabuki vous prient gentiment de ne pas toucher a leurs affaires"
+#@196611-75=
+
+# "Il faut d'abord payer"
+#@196687-21=
+
+# "Je crois que tu possedes suffisament d'or pour l'instant"
+#@196709-56=
+
+# "C'est dans la poche"
+#@196766-19=
+
+# "Tu veux plaisanter !"
+#@196786-20=
+
+# "Le manuscrit represente des centaines d'heures de travail. Le pretre Richard refuse de vous le donner"
+#@196807-101=
+
+# "Le pretre Richard vous interdit de prendre sa peinture qu'il utilise pour realiser les magnifiques enluminures de ses manuscrits"
+#@196909-128=
+
+# "Le ninjagi n'est d'aucune utilite pour nous"
+#@197038-43=
+
+# "C'est la propriete de la geisha"
+#@197082-31=
+
+# "Tu vas nous emcombrer pour rien"
+#@197114-31=
+
+# "La geisha vous prie de ne pas toucher aux affaires d'autrui"
+#@197146-59=
+
+# "C'est dans la poche"
+#@197206-19=
+
+# "Argon vous defend de toucher a ses affaires qui representent 40 ans de souvenirs et d'experiences d'alchimie"
+#@197226-108=
+
+# "100 kokus s'il vous plait monsieur"
+#@197335-34=
+
+# "Non, ce sont des champignons veneneux"
+#@197370-37=
+
+# "L'ayullu ne se laisse pas faire"
+#@197408-31=
+
+# "Vous voila pare d'un superbe uncu. Votre deguisement vous va a merveille"
+#@197440-72=
+
+# "L'oeuf est trop lourd"
+#@197513-21=
+
+# "Les plaques sont solidement fixees au mur"
+#@197535-41=
+
+# "C'est au dessus de vos possibilites"
+#@197577-35=
+
+# "Impossible. Vous etes deja trop charge"
+#@197613-38=
+
+# "C'est dans la poche"
+#@197652-19=
+
+# "Vous ne possedez rien du tout"
+#@197672-29=
+
+# "Vous possedez :"
+#@197702-15=
+
+# " - "
+#@197718-3=
+
+# "%3d"
+#@197722-3=
+
+# " pieces d'argent"
+#@197726-16=
+
+# "
+"
+#@197743-2=
+
+# "%3d"
+#@197746-3=
+
+# " pieces d'or"
+#@197750-12=
+
+# "
+"
+#@197763-2=
+
+# "
+"
+#@197766-2=
+
+# "Vous voyez :"
+#@197769-12=
+
+# " - "
+#@197782-3=
+
+# "%3d"
+#@197786-3=
+
+# " pieces d'argent"
+#@197790-16=
+
+# "
+"
+#@197807-2=
+
+# "%3d"
+#@197810-3=
+
+# " pieces d'or"
+#@197814-12=
+
+# "
+"
+#@197827-2=
+
+# "
+"
+#@197830-2=
+
+# "Il n'y a rien a signaler"
+#@197833-24=
+
+# "Cela ne presente aucun interet"
+#@197858-30=
+
+# "C'est tout a fait ordinaire"
+#@197889-27=
+
+# "Les pieces d'or brillent de tout leur eclat"
+#@197917-43=
+
+# "C'est la nouvelle monnaie officielle du Japon depuis 1606"
+#@197961-57=
+
+# "La solitude vous saisit face a l'immensite"
+#@198019-42=
+
+# "La bezoard est une roche calcaire qui se forme dans l'estomac des lamas. On prete a cette pierre des pouvoirs magiques etonnants dont celui de transformer un homme en pierre"
+#@198062-173=
+
+# "Incroyable, il est tout en or massif !"
+#@198236-38=
+
+# "Les verres sont fabriques en alliage de carbolitium lunaire"
+#@198275-59=
+
+# "Le shoker est une sorte de lance-flammes. Equipe d'un canon thermique, il peut degager une chaleur de 550 degres. Il ne se declenche qu'a partir d'une certaine temperature"
+#@198335-171=
+
+# "C'est un bioterminal portable de la 5eme generation. Son systeme de synthese vocale est mort et rend l'appareil inutilisable"
+#@198507-124=
+
+# "L'Arctique, immensite de glace, s'ouvre a vos yeux"
+#@198632-50=
+
+# "Un systeme de code regit l'ouverture de la porte"
+#@198683-48=
+
+# "Ces machines fonctionnent grace a des generateurs anti-matiere, bases sur le principe de la fission du positron"
+#@198732-111=
+
+# "Son nom de code est RX-22. Concu par le CNRS, le Centre Neurologique de Robotique Speciale, ce cyborg est un etre evolue dote d'un cerveau a l'intelligence "naturelle" qui diffuse ses ordres a une moelle artificielle reliee a un systeme nerveux synthetique."
+#@198844-257=
+
+# "RX-22 s'exprime grace a une antenne a frequences telepathiques. Il a d'autre part le pouvoir de se rendre invisible. Il fut longtemps le responsable scientifique des missions d'exploration dans le temps du centre de teleportation baptise Transtemporix."
+#@199102-252=
+
+# "Sa connaissance des civilisations de l'homme est remarquable, ce qui fait de lui un veritable conseiller historique"
+#@199355-115=
+
+# "La porte 1 est reglee sur le 23 juillet 85002 avant J.C. au temps des premiers Homo-Sapiens au coeur de l'Europe Centrale"
+#@199471-121=
+
+# "La porte 2 est reglee sur le 16 fevrier 1135 apres J.C. au coeur de l'Ecosse profonde"
+#@199593-85=
+
+# "La porte 3 est reglee sur le 21 juin 1527, le premier jour de la fete du Soleil, au coeur de l'empire Inca, a Cuzco, sous le regne de l'empereur Huascar"
+#@199679-152=
+
+# "La porte 4 est reglee sur le 12 mai 1635, au coeur du Japon feodal a l'epoque Tokugawa sous le regne du shogun Iemitsu"
+#@199832-118=
+
+# "Les Portes du Temps font partie de Transtemporix, le systeme de teleportation mis au point par les ingenieurs et les cyborgs de Neuronix. Elles sont reliees a une machine appellee Mnemotechnix qui s'active lorsqu'un passage dans le temps s'effectue."
+#@199951-249=
+
+# "Un casque generateur de neurones cervicaux vient alors se brancher automatiquement sur la tete du voyageur et communique au cerveau des milliers d'informations necessaires a la connaissance des langues respectives de chaque epoque"
+#@200201-230=
+
+# "L'elevator permet de descendre a l'etage inferieur. Un simple contact sur la fleche rouge, puis vous descendez"
+#@200432-110=
+
+# "Ce sont des montagnes jeunes qui se sont erigees a l'ere tertiaire, comme en temoigne leur cime relativement pointue"
+#@200543-116=
+
+# "Tu peux apercevoir dans la vallee un paysage de constrastes surprenants melant a la fois une grande etendue aride et la foret. Une riviere traverse cet univers sauvage"
+#@200660-167=
+
+# "C'est une combinaison en lateoide"
+#@200828-33=
+
+# "C'est une bassine en bois"
+#@200862-25=
+
+# "Il prie afin de conjurer le mauvais sort qui s'est abattu sur le chateau d'Urquhart"
+#@200888-83=
+
+# "C'est une clef en or"
+#@200972-20=
+
+# "C'est une petite clef en fer"
+#@200993-28=
+
+# "Ne sais-tu pas que chez ces peuples des Andes, les tissus possedent plus de valeur que les objets en metal precieux"
+#@201022-115=
+
+# "Ce sont des champignons mortels"
+#@201138-31=
+
+# "Le gnome a gele une partie du lac"
+#@201170-33=
+
+# "Il est orne de pierres precieuses"
+#@201204-33=
+
+# "C'est une chapelle romane de la fin du XIeme siecle"
+#@201238-51=
+
+# "Ce sont les restes d'un precedent aventurier qui a eu moins de chance que toi"
+#@201290-77=
+
+# "C'est une representation du Christ sur sa croix"
+#@201368-47=
+
+# "Une inscription est gravee dans le couvercle du coffre. Vous pouvez lire : "Grannon" "
+#@201416-85=
+
+# "Tiens, c'est bizarre ! D'apres mes donnees, ce volatile ressemblerait a un pterosaurien. Mais, tous les specialistes s'accordent a dire que cette espece devrait etre eteinte a cette epoque de la prehistoire"
+#@201502-206=
+
+# "Il est vraiment place trop loin pour qu'on puisse le detailler"
+#@201709-62=
+
+# "C'est un tabouret en chene massif qui sert de table de chevet pour l'occupant du lieu"
+#@201772-85=
+
+# "La pirogue est vide a present"
+#@201858-29=
+
+# "L'interieur de la pirogue est rempli de vivres et d'armes"
+#@201888-57=
+
+# "Le serpent enroule autour d'une branche, siffle au dessus de nos tetes. Restons mefiants, il serait capable de te mordre"
+#@201946-120=
+
+# "Le certificat de circulation est sommairement un laissez-passer. Il permet de circuler librement sur la route de Tokaido. Il suffit pour cela de le presenter a l'un des 53 relais de la voie qui le certifie"
+#@202067-205=
+
+# "Il s'appelle Doka et incarne le personnage de la sewanyobo. Il est vetu d'un kimono tres colore. Son visage est finement maquille de facon a simuler celui d'une femme"
+#@202273-166=
+
+# "Il s'appelle Yoshi et joue le role du tate-yaku. Il est vetu d'un kimono tres ample. Son visage est recouvert par un masque, complete d'une perruque"
+#@202440-148=
+
+# "Deux acteurs, dont l'un est revetu d'un masque, repetent leur role : Yoshi incarne le personnage masculin du tate-yaku, Doka le personnage feminin de la sewanyobo"
+#@202589-162=
+
+# "Prends garde a toi, la hache est un instrument tranchant. Elle peut servir a fendre ou a couper, voire meme a tuer. C'est la preuve que les hommes prehistoriques ne sont pas si idiots que cela"
+#@202752-192=
+
+# "C'est un long et beau silex. Ses aretes tranchantes  en font une arme redoutable, mais aussi un outil tres efficace"
+#@202945-115=
+
+# "C'est de la viande rouge crue"
+#@203061-29=
+
+# "Les ecailles argentees de ce serpent en font un magnifique specimen. Sa chair est reputee pour etre tres tendre"
+#@203091-111=
+
+# "C'est un superbe kilt ecossais, colore a souhait  comme il se doit"
+#@203203-66=
+
+# "Comme toutes les masses d'armes, celle-ci est formee d'un manche surmonte d'une masse metallique, garnie de pointes. Permet moi de te dire que c'est une arme particulierement redoutable"
+#@203270-185=
+
+# "C'est un pichet de scotch, du pur whisky ecossais, le meilleur au monde"
+#@203456-71=
+
+# "La cruche est vide a present"
+#@203528-28=
+
+# "C'est un livre a l'ecriture et aux formules esoteriques dont se servent generalement les magiciens et les sorciers. Je suis incapable de le dechiffrer"
+#@203557-150=
+
+# "C'est de la bonne viande hachee et assaisonnee, et  qui plus est, fumee"
+#@203708-71=
+
+# "On accorde a ce type d'objet des vertus prophylactiques. Je reste assez sceptique mais pourquoi pas ?"
+#@203780-101=
+
+# "Cet ouvrage nous apprend l'existence de la  Mandragore, plante dont la racine rappelle la forme d'un corps humain. On la croyait jadis dotee de nombreuses vertus et on l'utilisait en sorcellerie"
+#@203882-194=
+
+# "Ne te fatigue pas ! Meme moi je ne suis pas en  mesure de comprendre tous les signes cabalistiques contenus dans ce livre"
+#@204077-121=
+
+# "La fiole est vide"
+#@204199-17=
+
+# "La fiole contient l'elixir de Grannon. A n'en pas douter, c'est une boisson magique"
+#@204217-83=
+
+# "La bourse est remplie de feuilles de coca"
+#@204301-41=
+
+# "Ces herbes utilisees par les sorciers incas ont la reputation d'eveiller des sentiments amoureux chez les etres humains"
+#@204343-119=
+
+# "Cette statuette est un lama en terre cuite. Il est  dit que ces huacas abritent une ame"
+#@204463-87=
+
+# "C'est un petit morceau de jambon fume. Il semble delicieux"
+#@204551-58=
+
+# "Le parchemin revele les secrets de l'invisibilite. Cette technique indique qu'il faut croiser les doigts et prononcer le mot "Toshi". L'une des conditions est de se trouver pres d'un Kami afin d'implorer les dieux"
+#@204610-213=
+
+# "C'est un masque no appele Ko-omote. Il est concu afin de traduire les emotions selon differentes expresions par une simple modification de l'eclairage suivant que la tete est plus ou moins baissee ou relevee"
+#@204824-207=
+
+# "Ce sont deux griffes munies de crampons d'acier. Une fois enfilees aux mains et aux pieds, elles permettent d'escalader certaines parois verticales"
+#@205032-147=
+
+# "C'est un superbe filet de maquereau"
+#@205180-35=
+
+# "Il appartient au Machi-bugyo Rifo. C'est un  accessoire pratiquement indispensable au Japon. Tout le monde en porte un jusqu'au plus miserable des valets de ferme"
+#@205216-162=
+
+# "Tant que tu ne te decideras pas a decacheter cette lettre, je ne pourrais pas t'eclaircir sur son contenu"
+#@205379-105=
+
+# "C'est un arrete shogunal. Il est ordonne a tous les relais d'arreter tous les etrangers circulant sur la route de Tokaido. Il est vrai que c'est en 1635 qu'Iemitsu commence sa politique de fermeture du Japon sur l'exterieur"
+#@205485-223=
+
+# "Le phaser est une arme tres discrete. Dote d'un detecteur du virus AX-415, il est capable de reduire en poussiere un etre humain en l'espace d'une seconde. Il pourrait s'appeler en fait un desintegrateur"
+#@205709-203=
+
+# "Dotee de verres en alliage de carbolitium lunaire, cette paire de lunettes est un produit de premiere classe"
+#@205913-108=
+
+# "Le respirator a remplace la bouteille d'oxygene, le detendeur, le masque et le tuba dont se servaient autrefois les plongeurs. Par un systeme d'electrolyse de l'eau, il genere de l'oxygene synthetique. Il se branche sur le nez"
+#@206022-226=
+
+# "En plastometalloide comprime, le paralysopulseur est actionne par six piles a iodes suractivees. Avec cette fine fleur de l'electronique, tu as les moyens de paralyser un etre humain en moins d'un dizieme de seconde"
+#@206249-215=
+
+# "C'est une soutane, sorte de vetement long en forme de robe porte par les ecclesiastiques. Elle nous permettra de passer inapercu dans l'Ecosse du XIIeme siecle"
+#@206465-159=
+
+# "Grace aux lunettes, parmi tous les renseignements interessants, vous relevez le code confidentiel d'une porte : 27182"
+#@206625-117=
+
+# "C'est une carte transparente en plasmothermyl"
+#@206743-45=
+
+# "C'est un peigne qui sert a appreter la laine des lamas"
+#@206789-54=
+
+# "C'est etrange. Ce seau est fait dans un metal qui m'est inconnu et qui, a mon avis, n'est certainement pas d'origine terrestre. Peut-etre possede-t'il de puissants pouvoirs magiques ?"
+#@206844-183=
+
+# "Ce ne sont que quelques fagots attaches autour d'un manche"
+#@207028-59=
+
+# "Vous ne decouvrez rien d'interessant"
+#@207088-36=
+
+# "Vous trouvez sur la table une carte magnetique"
+#@207125-46=
+
+# "Dans les etageres, vous decouvrez une paire de lunettes et un bioterminal portable"
+#@207172-82=
+
+# "Soyez plus precis"
+#@207255-17=
+
+# "Accroche a un mur, vous trouvez un shoker"
+#@207273-41=
+
+# "Vous ne trouvez rien"
+#@207315-20=
+
+# "Dans une des poches du uncu, vous trouvez une quena et un peigne"
+#@207336-64=
+
+# "La bassine est vide"
+#@207401-19=
+
+# "Impossible. Le coffre est ferme"
+#@207421-31=
+
+# "Vous decouvrez une fiole contenant l'elixir de Grannon"
+#@207453-54=
+
+# "Dissimule sous un double fond, vous trouvez un grimoire"
+#@207508-55=
+
+# "Vous ne decouvrez rien d'interessant"
+#@207564-36=
+
+# "Soyez plus precis..."
+#@207601-20=
+
+# "D'accord."
+#@207622-9=
+
+# "Vous deposez soigneusement votre tami devant le kami. Peut-etre eveillerez-vous l'attention du Dieu qui sommeille dans la statuette ?"
+#@207632-133=
+
+# "D'accord."
+#@207766-9=
+
+# "RX 22 vous assene une injonction telepathique de force 10. La violence de la charge est telle que vous restez inconscient pendant quelques diziemes de seconde. Le cyborg RX n'est pas une race rancuniere : "
+#@207776-205=
+
+# "RX 22 vous promet d'oublier cet incident mais il affirme qu'il n'hesitera pas a vous rappeler a l'ordre de cette maniere quand il jugera que vous entraverez le bon deroulement de la mission"
+#@207982-189=
+
+# "Le tami est un objet d'art, pas de boucherie"
+#@208172-44=
+
+# "Vous plaisantez ?"
+#@208217-17=
+
+# "Vous etes juge par le magistrat d'Edo puis envoye a Den-macho ou vous etes torture a mort"
+#@208235-89=
+
+# "Quelle erreur vous faites ! Le respirator etait votre seule chance de survie dans l'univers aquatique. Vous perdez connaissance a tout jamais"
+#@208325-141=
+
+# "Vous faites bien. Le respirator commencait a vous ecorcher les narines"
+#@208467-70=
+
+# "Vous avez commis une faute irreparable en enlevant votre deguisement. Votre combinaison futuriste a eveille l'attention d'un inca qui vous a denonce pres de la garde royale. Vous etes rapidement fait prisonnier, puis condamne a la peine capitale"
+#@208538-245=
+
+# "C'est dommage, les lunettes vous allaient a ravir"
+#@208784-49=
+
+# "Comment veux-tu enlever un vetement que tu ne  possedes pas ? Ce que tu crois porter est juste un hologramme"
+#@208834-108=
+
+# "C'est dommage, le kilt te donnais un genre sympathique"
+#@208943-54=
+
+# "Vous enlevez les griffes"
+#@208998-24=
+
+# "Vous enlevez le masque"
+#@209023-22=
+
+# "Vous en etes incapable"
+#@209046-22=
+
+# "Les samourais du daimyo montent dans l'arbre et surprennent le ninja en train d'epier le cortege. Ils coupent la tete du guerrier de l'ombre et la montrent a leur maitre."
+#@209069-170=
+
+# "Le daimyo, pour vous remercier, vous remet de nombreuses pieces d'argent pour une valeur de 1000 kokus"
+#@209240-102=
+
+# "Ne t'approche pas trop du vieillard, il pourrait  etre contagieux"
+#@209343-65=
+
+# "Desole monsieur, il est trop tot"
+#@209409-32=
+
+# "Je vous prie de bien vouloir me suivre. Voici monsieur, un endroit ou vous pourrez dormir en paix. 100 kokus, merci. Je vous souhaite une bonne nuit."
+#@209442-149=
+
+# "Extenue, vous vous endormez... (7 heures plus tard)"
+#@209592-51=
+
+# "Bonjour, avez-vous bien dormi ? Une nouvelle journee commence, esperons qu'elle sera excellente"
+#@209644-95=
+
+# "Non ! Ce n'est vraiment pas le moment"
+#@209740-37=
+
+# "Non, ce sont des champignons veneneux"
+#@209778-37=
+
+# "Vous vous jetez goulument sur une cuisse de mammouth crue"
+#@209816-57=
+
+# "Tu n'es pas un sauvage pour manger du serpent, et puis tu risquerais de t'etouffer"
+#@209874-82=
+
+# "Vous etiez vraiment affame. Vous avalez goulument toute la saucisse"
+#@209957-67=
+
+# "Le coca provoque en vous une euphorie suivie d'un sommeil onirique. Vous vous reveillez 5 heures plus tard avec la tete tres lourde"
+#@210025-131=
+
+# "C'est d'un gout assez particulier, mais cela reste mangeable"
+#@210157-60=
+
+# "Les herbes ne provoquent sur vous aucun effet"
+#@210218-45=
+
+# "Le jambon fume est vraiment delicieux. Vous le savourez avec delectation"
+#@210264-72=
+
+# "Quel regal ! Ce filet de maquereau est vraiment exquis"
+#@210337-54=
+
+# "Vous etes un veritable glouton. Le manju est deja mange"
+#@210392-55=
+
+# "Vous etes un veritable glouton. Le sushi est deja mange"
+#@210448-55=
+
+# "Surtout pas ! Vous risquez d'avoir des maux d'estomac"
+#@210504-53=
+
+# "Essaie toujours, c'est comme si tu parlais aux murs !"
+#@210558-53=
+
+# "En quoi puis-je t'etre utile ?"
+#@210612-30=
+
+# "Vous n'obtenez aucune reponse"
+#@210643-29=
+
+# "Non, non, tu n'arriveras a rien de cette facon"
+#@210673-46=
+
+# "La glace se brise. Vous tombez a l'eau et vous perissez, victime de l'ensorcelement du lac"
+#@210720-90=
+
+# "Vous vous epuisez inutilement"
+#@210811-29=
+
+# "Le silex se brise en mille morceaux. Il est maintenant inutilisable"
+#@210841-67=
+
+# "Tu n'as pas le droit de detruire la nature"
+#@210909-42=
+
+# "Il suffit que je me detourne un instant, pour que tu fasses des betises. Non , mais franchement, cela va te servir a quoi d'avoir dechire ce superbe kilt."
+#@210952-154=
+
+# "Quel dommage, du pur whisky de malt !"
+#@211107-37=
+
+# "C'est de la pure folie. Tu viens certainement de detruire un ouvrage de grande valeur"
+#@211145-85=
+
+# "Ne t'enerve pas ! Tu ne decouvriras jamais le secret de cette pierre"
+#@211231-68=
+
+# "Vous fendez l'amulette en deux. Elle en pert tous ses pouvoirs"
+#@211300-62=
+
+# "La statuette se brise en mille morceaux. Un element d'une clef est cache a l'interieur"
+#@211363-86=
+
+# "La baie vitree est en plastobitium. Autant vous dire que vous perdez votre temps, vous n'arriverez meme pas a rayer le verre"
+#@211450-124=
+
+# "Leur alliage en metalloide alumine rend les machines indestructibles"
+#@211575-68=
+
+# "Vous vous fatiguez pour rien. L'alliage en metalloide alumine rend la porte indestructible "
+#@211644-91=
+
+# "Vous vous epuisez inutilement. La glace forme un bloc compact que vous ne parvenez pas a briser"
+#@211736-95=
+
+# "Vous vous epuisez inutilement. La glace forme un bloc compact que vous n'arrivez pas a briser"
+#@211832-93=
+
+# "Gardez votre sang-froid"
+#@211926-23=
+
+# "Profite en pendant que les lieux sont deserts, ce n'est pas tous les jours qu'on a la chance de se baigner dans un tel luxe"
+#@211950-123=
+
+# "Vous etes inconscient de vous aventurer si loin de la base. Vous tombez dans l'eau glacee et vous mourrez congestionne"
+#@212074-118=
+
+# "Il y a mieux a faire que de barboter"
+#@212193-36=
+
+# "Vous entrouvez les yeux et vous reprenez contact avec ce monde que vous avez momentanement quitte"
+#@212230-97=
+
+# "Je ne vois pas comment"
+#@212328-22=
+
+# "Le coffre est maintenant ouvert"
+#@212351-31=
+
+# "Le coffre est deja ouvert"
+#@212383-25=
+
+# "Vous ne parvenez pas a ouvrir la shoji. De toute maniere, a cette heure, la nanushi Okoki ne pourrait pas vous recevoir"
+#@212409-119=
+
+# "La shoji est deja ouverte"
+#@212529-25=
+
+# "Les Portes du Temps ne s'ouvrent pas ! Il suffit d'y penetrer pour changer de dimension temporelle"
+#@212555-98=
+
+# "Vous n'en avez pas les moyens"
+#@212654-29=
+
+# "Voila qui est fait"
+#@212684-18=
+
+# "Elle est deja ouverte"
+#@212703-21=
+
+# "C'est impossible"
+#@212725-16=
+
+# "Le shoji est solidement fixe"
+#@212742-28=
+
+# "Laisse la porte ouverte, elle est tres bien ainsi"
+#@212771-49=
+
+# "Malheureux, tu veux nous fermer l'acces a l'appartement du shogun ! Comment penses-tu que nous allons penetrer dans les appartements seigneuriaux ? Tout de meme pas en traversant les murs !"
+#@212821-189=
+
+# "Vos paupieres se referment lourdement sur vos yeux pendant quelques instants..."
+#@213011-79=
+
+# "C'est impossible"
+#@213091-16=
+
+# "Soyez un peu plus diplomate"
+#@213108-27=
+
+# "Cet or ne m'interesse pas. Ce que je cherche, c'est  le moyen de transmuter les metaux en or. Mais pour cela, j'ai besoin de la pierre philosophale"
+#@213136-147=
+
+# "Cet or ne m'interesse pas. Ce que je cherche, c'est  le moyen de transmuter les metaux en or. Mais pour cela, j'ai besoin de la pierre philosophale"
+#@213284-147=
+
+# "Il accepte votre offre et goute au sake. Pas de chance pour vous, il deteste l'alcool de riz et le recrache instantanement."
+#@213432-123=
+
+# "L'homme, loin d'etre idiot, s'apercoit que le pichet est vide. En signe de protestation, il vous le lance a la figure"
+#@213556-117=
+
+# "Comme un ivrogne confirme, l'homme prehistorique vide le pichet goulument. Le whisky a pour effet de le rendre euphorique et de bonne humeur. Il en oublie son role de garde"
+#@213674-172=
+
+# "A qui ?"
+#@213847-7=
+
+# "Le coca, reconnu par les Incas comme un medicament aux multiples vertus redonne au vieil homme des forces inesperees. Il en oublie tous ses rhumatismes. Pour tout dire, il a l'impression de rajeunir de 20 ans"
+#@213855-208=
+
+# "Elle accepte les herbes avec joie et commence a les macher. L'effet ne se fait pas attendre : les herbes eveillent en elle de profonds sentiments amoureux"
+#@214064-154=
+
+# "Kyotmitso appose le cachet de l'administration shogunale. Le in vous permet desormais de circuler librement le long de la route de Tokaido"
+#@214219-138=
+
+# "Ne gaspillez pas ce qui vous appartient"
+#@214358-39=
+
+# "Un peu de whisky vous fait du bien. Vous vous sentez ragaillardi"
+#@214398-64=
+
+# "Vous n'avez plus de quoi apaiser votre soif. Le pichet est vide a present"
+#@214463-73=
+
+# "Surtout pas ! L'eau du lac est ensorcelee"
+#@214537-41=
+
+# "Vous prenez de l'eau dans le creux de vos mains et vous vous rafraichissez avec plaisir"
+#@214579-87=
+
+# "L'eau saumatre des marecages est tres indigeste. Vous avez de violents maux d'estomac"
+#@214667-85=
+
+# "L'elixir a un effet negatif sur vous. Vous etes atteint de gerontisme avance"
+#@214753-76=
+
+# "Il est toujours bon de se rafraichir"
+#@214830-36=
+
+# "L'eau est trop glacee. Vous la recrachez"
+#@214867-40=
+
+# "Vous buvez le sake goulument"
+#@214908-28=
+
+# "Sacrilege ! C'est de l'eau benite"
+#@214937-33=
+
+# "Desole, il n'y a rien a boire ici"
+#@214971-33=
+
+# "Rappelle toi, ta seule force dans ce chateau est l'invisibilite. Si tu te fais remarquer, tu pourras toujours essayer d'invoquer que tu viens sauver le shogun ou un autre pretexte, tu seras conduit dans un cachot ou tu moisiras a jamais"
+#@215005-236=
+
+# "Quelle idee saugrenue !"
+#@215242-23=
+
+# "La paire de lunettes vous va a ravir. Tres discrete, elle passe inapercue"
+#@215266-73=
+
+# "La forme de la clef epouse parfaitement celle de la serrure. La porte s'ouvre comme par magie et laisse decouvrir une piece remplie de tresors"
+#@215340-142=
+
+# "Votre tentative ne donne aucun resultat"
+#@215483-39=
+
+# "Vous declenchez l'ouverture d'un mecanisme secret"
+#@215523-49=
+
+# "Votre accoutrement est vraiment mal venu en de pareils lieux. Des hommes armes se saisissent de vous. Votre sort ne fait aucun doute. Considere comme un agitateur, vous recevez la peine capitale : la mort"
+#@215573-204=
+
+# "Vous revetissez le kilt. La jupe vous va a ravir. Mefiez-vous que l'on ne vous prenne pas pour une femme"
+#@215778-104=
+
+# "Le masque Ko-omote vous va a ravir. Vous avez l'air d'une veritable actrice"
+#@215883-75=
+
+# "Elles epousent parfaitement la forme de vos mains et de vos pieds"
+#@215959-65=
+
+# "Le respirator est deja entre vos narines"
+#@216025-40=
+
+# "Ce n'est pas tres agreable, mais enfin, si vous vous appretez a plonger, son utilite est evidente"
+#@216066-97=
+
+# "Vous le portez deja !"
+#@216164-21=
+
+# "Quelle idee saugrenue !"
+#@216186-23=
+
+# "Kong n'est pas dupe ! Il reconnait en vous l'homme viril dont il a tant horreur. Il vous saisit de sa grosse main poilue et ne fait qu'une bouchee de vous"
+#@216210-154=
+
+# "Conservez vos economies"
+#@216365-23=
+
+# "Ce n'est pas de cette facon que vous ferez des amis"
+#@216389-51=
+
+# "Ici, Eliott Ness a fait des emules : tout le monde est incorruptible (ou presque...)"
+#@216441-84=
+
+# "Vous ne sentez rien"
+#@216526-19=
+
+# "Que le Dieu des aventuriers vous protege dans votre quete !"
+#@216546-59=
+
+# "Le tami est un objet d'art, pas de cuisine"
+#@216606-42=
+
+# "Les arbres ne se laissent pas faire"
+#@216649-35=
+
+# "Quelle mouche t'as piquee ? Ils sont inutilisables maintenant"
+#@216685-61=
+
+# "C'est du propre !"
+#@216747-17=
+
+# "Vous etes une personne soigneuse. C'est bien !"
+#@216765-46=
+
+# "Vous plaisantez !"
+#@216812-17=
+
+# "Bonjour. Je suis Struff, le gnome musicien"
+#@216830-42=
+
+# "Bonjour"
+#@216873-7=
+
+# "La decence vous l'interdit"
+#@216881-26=
+
+# "Une etincelle jaillit et le feu commence a gagner la vallee"
+#@216908-59=
+
+# "I15"
+#@216968-3=
+
+# "I15"
+#@216972-3=
+
+# "Les deux batonnets s'enflamment. Une etincelle jaillit mais le feu ne prend pas"
+#@216976-79=
+
+# "La bougie est deja allumee"
+#@217056-26=
+
+# "Vous n'etes pas en mesure de rallumer la bougie"
+#@217083-47=
+
+# "Vous n'en avez pas les moyens"
+#@217131-29=
+
+# "Pas trop d'exces..."
+#@217161-19=
+
+# "Cela ne presente aucun interet"
+#@217181-30=
+
+# "Tu n'oserais tout de meme pas faire de mal a la reine du jardin japonais !"
+#@217212-74=
+
+# "Vous n'avez pas de temps a perdre a ces futilites"
+#@217287-49=
+
+# "Vous arrivez enfin dans la baie d'Edo"
+#@217337-37=
+
+# "Voyons ! C'est impossible"
+#@217375-25=
+
+# "Vous ne connaissez pas le celebre proverbe : rien ne sert de courir, il faut partir a point ?"
+#@217401-93=
+
+# "Struff revient et accepte vos excuses"
+#@217495-37=
+
+# "Stroff reste indifferent a votre appel"
+#@217533-38=
+
+# "Personne ne fait attention a vous"
+#@217572-33=
+
+# "Je doute de tes qualites de musicien. Tu me fais  honte avec tous ces canards"
+#@217606-77=
+
+# "Vous n'avez aucun instrument"
+#@217684-28=
+
+# "Enchante par votre musique, Struff jette un sort sur l'eau du lac avant de s'eclipser. Un chemin de glace apparait alors reliant la berge au chateau"
+#@217713-148=
+
+# "Vos manifestations intempestives ne vous permettront pas d'avancer plus vite"
+#@217862-76=
+
+# "Vous n'avez pas de temps a perdre"
+#@217939-33=
+
+# "Ce n'est pas tres net, mais on croirait entendre des gemissements"
+#@217973-65=
+
+# "La sonorite de ces instruments s'harmonise avec le caractere doux et melancolique de ces musiciens. Cette musique change vraiment de celle des synthetiseurs auxquels nous sommes habitues"
+#@218039-186=
+
+# "Cela ne vaut pas la peine d'ecouter"
+#@218226-35=
+
+# "Vous ne percevez aucun son particulier"
+#@218262-38=
+
+# "Vous devriez prendre des cours"
+#@218301-30=
+
+# "Par un reglage synchronise des canons a protons et des canons a electrons, l'energie nucleaire ainsi degagee permet d'une part la desintegration et la reintegration, et d'autre part, le changement de dimension temporelle"
+#@218332-220=
+
+# "C'etait trop haut pour vous"
+#@218553-27=
+
+# "Les barreaux vous en empechent"
+#@218581-30=
+
+# "Votre saut est trop court. Vous retombez dans l'eau. "
+#@218612-53=
+
+# "Si tu tiens a continuer ta mission, ne tente pas ce genre de peripeties"
+#@218666-71=
+
+# "Sauter ces murs d'une dizaine de metres de hauteur ! Tu n'y pense pas !"
+#@218738-71=
+
+# "Ce n'est d'aucune utilite"
+#@218810-25=
+
+# "Le feu s'est etendu malheureusement trop vite"
+#@218836-45=
+
+# "Il semble ravi de ces attouchements"
+#@218882-35=
+
+# "Vous vous jetez sous les trombes d'eau et vous vous heurtez a la paroi"
+#@218918-70=
+
+# "Votre cheval parvient a gagner peniblement l'autre rive. Vous etes sain et sauf"
+#@218989-79=
+
+# "Votre tentative d'explorer le jardin dans ses coins les plus retranches a echoue. Griffe au visage par les buissons, vous rebroussez chemin"
+#@219069-140=
+
+# "La pirogue est trop endommagee pour etre reparee.  Elle n'est donc plus utilisable"
+#@219210-82=
+
+# "Ce n'est pas la peine. Le systeme de synthese vocale est mort"
+#@219293-61=
+
+# "Il vaut mieux respecter la propriete d'autrui"
+#@219355-45=
+
+# "Soyez plus precis"
+#@219401-17=
+
+# "Vous vous brulez les doigts sur la cire chaude"
+#@219419-46=
+
+# "Stroff a vraiment un sommeil profond. Malgre toutes ces tentatives, vous ne parvenez pas a le reveiller"
+#@219466-103=
+
+# "Il reste completement impassible a tous vos faits et gestes "
+#@219570-60=
+
+# "Pas la peine, il restera ainsi paralyse pendant de longues heures"
+#@219631-65=
+
+# "Il est a demi-inconscient"
+#@219697-25=
+
+# "Ne sois pas si direct ! N'oublie pas les preliminaires"
+#@219723-54=
+
+# "Je suis desole mais je ne suis reserve qu'aux membres de la maison"
+#@219778-66=
+
+# "Miraculeusement, vous arrivez au zenith a deplacer l'oeuf. Les rayons du soleil, devies de leur trajectoire en direction d'une etrange plaque d'argent d'une des parois de la chapelle, declenchent l'ouverture d'un mecanisme secret."
+#@219845-230=
+
+# "L'un des cranes pivote sur lui-meme et declenche l'ouverture de la herse. Les portes du bonheur ou... de l'horreur s'ouvrent a vous !"
+#@220076-133=
+
+# "Utilise donc ton paralysopulseur a bon escient !"
+#@220210-48=
+
+# "La grenouille ne semble pas de cet avis et reste impassible a vos faits et gestes"
+#@220259-81=
+
+# "Cette pancarte (ou kakemono-e) indique les heures d'ouverture de la demeure du nanushi Okoki : de 10 h a 12 h et de 14 h a 17 h"
+#@220341-127=
+
+# "Vous decouvrez avec surprise que la bible n'est autre qu'un coffret renfermant une cle en fer"
+#@220469-93=
+
+# "La bible est vide maintenant"
+#@220563-28=
+
+# "Si ma science est exacte, le quipu indique  l'existence d'un passage souterrain sous la ville reliant Sacsahuaman et un lieu religieux"
+#@220592-134=
+
+# "Votre intervention ne semble pas du gout des musiciens indiens. Ils vous mettent en garde gentiment contre toute nouvelle tentative"
+#@220727-131=
+
+# "L'un d'entre eux perd patience et vous assene un coup au ventre"
+#@220859-63=
+
+# "Desole, le seau est vide"
+#@220923-24=
+
+# "L'eau s'evapore sur le sol comme par enchantement"
+#@220948-49=
+
+# "Vous videz l'eau du seau sur le feu ardent de la cheminee. L'effet ne se fait pas attendre. Il ne reste plus que des cendres"
+#@220998-124=
+
+# "Vous videz la fiole de son contenu"
+#@221123-34=
+
+# "Quel dommage de perdre de la si bonne marchandise !"
+#@221158-51=
+
+# "Tu merites que je te donne cette amulette. Tiens, etranger et garde la toujours aupres de toi. Elle te protegera des maladies au cours de tes aventures"
+#@221210-151=
+
+# "Les 4 elements s'emboitent maintenant parfaitement ensemble. Vous avez desormais une veritable clef en or"
+#@221362-105=
+
+# "Les elements ne s'emboitent pas correctement ensemble. Il manque certainement un ou plusieurs morceaux"
+#@221468-102=
+
+# "Tu es assez beau comme ca !"
+#@221571-27=
+
+# "Dans un ultime effort de concentration, vous croisez vos doigts, pret a prononcer le mot Toshi afin d'invoquer les dieux"
+#@221599-120=
+
+# "Il faut croire que les dieux vous ont entendu. Vous devenez invisible, comme par miracle"
+#@221720-88=
+
+# "Il faut croire que les dieux ne vous ont pas entendu. Vous restez dans votre etat normal"
+#@221809-88=
+
+# "Il est bien difficile de juger de la valeur de cet objet, et puis il peut toujours servir"
+#@221898-89=
+
+# "Ne sois pas ridicule ! Le lancer du shuriken est une technique que seuls les ninjas maitrisent"
+#@221988-94=
+
+# "Ne sois pas ridicule ! Le lancer du Makabishi est une technique que seuls les ninjas maitrisent"
+#@222083-95=
+
+# "Votre phaser ne detecte pas la presence du virus AX-415. Vous devez faire erreur"
+#@222179-80=
+
+# "Votre shoker est enraye et est inutilisable."
+#@222260-44=
+
+# "Au contact du froid,le canon thermique de votre shoker se met en action. La glace fond et un cyborg parvient a se liberer. Il se dirige vers vous puis vous adresse la parole :"
+#@222305-175=
+
+# "Je te remercie de m'avoir sauve. Je me presente. Mon nom de code est RX-22. Je suis charge par le directeur de la base Neuronix de travailler en collaboration avec toi sur une mission de la plus haute importance. "
+#@222481-213=
+
+# "Elle consiste a retrouver des hommes, ceux-la meme  qui m'ont pousse a l'exterieur de la base, alors que je m'appretais a les arreter, puis a les desintegrer."
+#@222695-158=
+
+# "Suite a la catastrophe bacteriologique que tu  connais, ces etres ont perdu la raison et se sont enfuis dans le temps. Porteurs du fameux virus AX-415, ils sont capables de propager la maladie et ainsi, de modifier le cours de l'Histoire."
+#@222854-238=
+
+# "Nous avons a peine deux jours pour accomplir notre mission avant que ces irresponsables ne mettent en peril le Temps. A partir de maintenant nous ferons equipe tous les deux. Accepte ce respirator, ce phaser, et ce paralysopulseur, ils te seront utiles."
+#@223093-253=
+
+# "Votre shoker ne repond pas. Rappelez-vous qu'il ne se declenche qu'a partir d'une certaine temperature"
+#@223347-102=
+
+# "Le code est correct. Vous declenchez le systeme d'ouverture de la porte"
+#@223450-71=
+
+# "Le code est incorrect. Vous recevez une violente decharge electrique"
+#@223522-68=
+
+# "Encore faut-il savoir ou se trouve cache le coeur du systeme ?"
+#@223591-62=
+
+# "Vous ne pouvez plus rien faire pour lui"
+#@223654-39=
+
+# "Au lieu de gemir sur votre sort, prenez-vous en main. Il est trop tard pour reculer"
+#@223694-83=
+
+# "Le seau est deja plein"
+#@223778-22=
+
+# "Vous avez de la chance. L'eau ensorcelee du lac est le seul liquide qui peut remplir le seau"
+#@223801-92=
+
+# "Le seau magique se desagrege inexplicablement"
+#@223894-45=
+
+# "Tu ne pensais tout de meme pas transformer cet homme en pierre. Il ne faut pas se fier a ces croyances incas"
+#@223940-108=
+
+# "Comment ?"
+#@224049-9=
+
+# "Pourquoi tant de haine ?"
+#@224059-24=
+
+# "I15"
+#@224084-3=
+
+# "I15"
+#@224088-3=
+
+# "I14"
+#@224092-3=
+
+# "I14"
+#@224096-3=
+
+# "Furieux que vous vous approchiez de ses futures progenitures, le pterosaurien se jette sur vous et vous fait perdre l'equilibre"
+#@224100-127=
+
+# "Desole etranger, tu ne merites pas mon amulette"
+#@224228-47=
+
+# "Le ronin ne connait que le langage de l'epee. A l'aide de son Katana, il vous tranche la tete comme une pasteque"
+#@224276-112=
+
+# "Kong vous saisit de sa grosse main poilue et vous regarde de ses yeux percants... Le gorille semble s'etre epris de vous. Kong vit un intense moment d'amour. Il est de votre devoir de ceder a ses volontes"
+#@224389-204=
+
+# "Kong vous saisit de sa grosse main poilue et ne fait qu'une bouchee de vous"
+#@224594-75=
+
+# "Plus prompt que vous a faire le bon choix, le ninja ne vous laisse aucune chance de survie. Transperce par les coups, votre corps s'ecroule lourdement sur le sol"
+#@224670-161=
+
+# "L'ayullu affole appelle les gardes imperiaux qui se saisissent de vous et vous emmenent dans une Samca-huasi"
+#@224832-108=
+
+# "Les etrangers ne sont pas admis a Cuzco lors de la fete du soleil. Les gardes imperiaux vous saisissent et vous emmenent dans une Samca-huasi"
+#@224941-141=
+
+# "Les dieux ne vous accordent pas le pouvoir d'etre invisible indefiniment. Vous devenez ainsi, dans l'enceinte du chateau, tres vulnerable. L'effet ne se fait pas attendre. Des yorikis se jettent sur vous et vous transpercent de leurs sabres"
+#@225083-240=
+
+# "Les dieux ne vous accordent pas le pouvoir d'etre invisible indefiniment. Vous retrouvez votre aspect normal"
+#@225324-108=
+
+# "Il est tres difficile de respirer dans l'eau. Vous n'auriez pas du surestimer vos capacites"
+#@225433-91=
+
+# "Vous feriez mieux de retirer le respirator de votre nez. Il vous epuise inutilement"
+#@225525-83=
+
+# "Vous penetrez dans le palais a la mauvaise heure. L'impression de calme est trompeuse. Vous etes surpris dans l'appartement par deux servantes qui aussitot crient au secours. Vous avez a peine le temps de reagir qu'une dizaine d'hommes en armes se precipitent sur vous"
+#@225609-268=
+
+# "A la vue de la foule, votre cheval se cabre violemment et s'enfuit sans vous"
+#@225878-76=
+
+# "Sans vous en rendre compte, vous avez contracte la verruga, maladie tres repandue et tres redoutee a Cuzco. Vous vous sentez de plus en plus faible"
+#@225955-147=
+
+# "Vous avez ete impuissant a eviter une modification du cours de l'Histoire. Pourtant, vous etiez la seule chance de survie de ces millions d'individus sans defense. Par votre incapacite a maitriser le temps, vous et RX-22 etes condamnes a n'avoir jamais existe !"
+#@226103-261=
+
+# "Ayant accompli votre mission, RX-22 vous invite a revenir en 2113 afin de recevoir, comme il se doit les honneurs du directeur de la base Neuronix  puis de la Terre entiere"
+#@226365-172=
+
+# "Il est inutile de marchander avec ce genre de personnage"
+#@226538-56=
+
+# "Et alors ?"
+#@226595-10=
+
+# "Precisez quel type de clef"
+#@226606-26=
+
+# "Precisez quel type de livre"
+#@226633-27=
+
+# "I59"
+#@226661-3=
+
+# "I59"
+#@226665-3=
+
+# "I79"
+#@226669-3=
+
+# "I79"
+#@226673-3=
+
+# "Kyotmitso, le chef du relais de Shinigawa, vous adresse la parole d'une facon seche :"
+#@226677-85=
+
+# "Desole, nous venons de recevoir l'ordre de notre shogun Iemitsu d'arreter tous les etrangers circulant sur la route de Tokaido"
+#@226763-126=
+
+# "Deux samourais s'emparent de vous. Votre mission echoue"
+#@226890-55=
+
+# "Le sorcier se place devant et vous fixe de ses yeux petillants. Vous avez sommeil. Vous l'entendez sourdement reciter des prieres. Vous avez de plus en plus sommeil. Il place ses mains sur votre front puis sur votre corps. Vous vous endormez a tout jamais"
+#@226946-255=
+
+# "Vous auriez du prendre vos precautions pour vous proteger contre les microbes. Vous n'echappez pas au cholera."
+#@227202-110=
+
+# "Vous n'avez pas ete assez vigilant face au danger. Le guerrier a vite decide de votre sort. Il vous embroche avec sa lance sans que vous ayez eu suffisament le temps de vous defendre"
+#@227313-182=
+
+# "Votre accoutrement est vraiment mal venu en de pareils lieux. Des hommes armes se saisissent de vous. Votre sort ne fait aucun doute. Considere comme un agitateur, vous recevez la peine capitale : la mort"
+#@227496-204=
+
+# "Votre cas est desespere"
+#@227701-23=
+
+# "Regarde donc la boussole !"
+#@227725-26=
+
+# "Malgre ton conditionnement par la Mnemotechnix, tu ne pourras jamais comprendre tous les dialectes et l'argot des langues etrangeres"
+#@227752-132=
+
+# "Cessez de poser des questions"
+#@227885-29=
+
+# "Pour redefinir une touche de fonction, tapez "Redefinir" suivi du numero de la touche ou bien appuyez sur <SHIFT> + une touche de F1 a F10"
+#@227915-138=
+
+# "Y'a pas d'quoi !"
+#@228054-16=
+
+# "Avec Legend Software, rien ne sera jamais plus comme avant"
+#@228071-58=
+
+# "C'est une montagne constituee de roches volcaniques"
+#@228130-51=
+
+# "Les mammouths sont les ancetres des elephants. Ils sont une proie convoitee pour les chasseurs prehistoriques car ils leur fournissent non seulement de la nourriture, mais aussi de la matiere premiere pour la fabrication de leurs outils"
+#@228182-236=
+
+# "Ces buissons sont les rares representants de la vegetation de ce coin de vallee"
+#@228419-79=
+
+# "C'est une vaste plaine, representative de ce genre de climat"
+#@228499-60=
+
+# "Quel spectacle merveilleux !"
+#@228560-28=
+
+# "Ces plantes egaient la sobriete de la paroi"
+#@228589-43=
+
+# "D'ici, il est impossible de distinguer quoique ce soit"
+#@228633-54=
+
+# "C'est sans doute Kong qui a depose ce tronc d'arbre ici pour pouvoir acceder a ses petits dejeuners"
+#@228688-99=
+
+# "Cette forme etrange a ete sculptee par l'erosion depuis des millenaires"
+#@228788-71=
+
+# "Il y a un fort courant qui mene vers les profondeurs de la grotte"
+#@228860-65=
+
+# "La sensualite des formes de cette jeune femme met en eveil votre libido"
+#@228926-71=
+
+# "Reste gentleman ! Ne laisse pas trainer tes yeux comme ca."
+#@228998-58=
+
+# "Le malheur s'est abattu sur cette foret. Des arbres arraches gisent sur le sol. Un vent sinistre souffle sur la vallee comme pour nous avertir. Peut-etre annonce-t-il un danger a venir"
+#@229057-184=
+
+# "Je ne rien distingue d'ici"
+#@229242-26=
+
+# "L'abondance de la vase rend la traversee impossible"
+#@229269-51=
+
+# "Les hommes surveillent le feu, leur plus grande richesse apres les femmes... Leur visage eclaire par les flammes laisse apparaitre des traits tires par l'angoisse"
+#@229321-162=
+
+# "Tapies derriere le feu, les femmes donnent l'impression d'etre terrorisees comme si elles avaient ete confrontees a une force malefique et inconnue. Esperons que la maladie ne se soit pas deja propagee"
+#@229484-201=
+
+# "La peinture montre un bison peint avec delicatesse. Malgre leurs apparences, ces etres a demi sauvages sont capables de realiser des oeuvres graphiques d'une remarquable qualite"
+#@229686-177=
+
+# "Il a un aspect farouche et sauvage. Il semble sur ses gardes. Surveille-t-il l'entree de cette grotte et si oui pourquoi ?"
+#@229864-122=
+
+# "La grotte est severement gardee par un homme a l'aspect farouche et sauvage. Sera-t-il comprehensif et nous laissera-t-il penetrer a l'interieur de la caverne ?"
+#@229987-160=
+
+# "Le ruisseau prend sa source dans les montagnes que tu vois au loin. Son lit s'agrandit sur les plateaux. Il devient alors un torrent pour se jeter plus loin dans la vallee ou il s'assagit definitivement"
+#@230148-202=
+
+# "Un amas de pierres obstrue l'entree de la grotte. Je ne vois aucune possibilite de solutionner le probleme"
+#@230351-106=
+
+# "Un amas de pierres obstrue l'entree mais nous pouvons nous faufiler par une legere ouverture"
+#@230458-92=
+
+# "Agenouillee sur le sol, une femme se lamente desesperement. Comme vous, elle est prisonniere de l'horrible Kong"
+#@230551-111=
+
+# "Des stalacmites et des stalactites agrementent le morne decor de la grotte. Un amas de roches bloque l'entree. Mais seras-tu assez fort pour deplacer ces pierres ?"
+#@230663-163=
+
+# "Un amas de roches bloque la sortie, mais nous pouvons nous faufiler par l'ouverture"
+#@230827-83=
+
+# "Kong vous tient de sa main droite et vous regarde de ses yeux percants. Votre charme a exerce tous ses effets. Kong vous emmene dans son repere..."
+#@230911-146=
+
+# "I15"
+#@231058-3=
+
+# "Ce sont les restes du mammouth qui a essaye de nous attaquer avant que le feu ne prenne dans la vallee"
+#@231062-102=
+
+# "Certains troncs ont ete litteralement arraches du sol, d'autres plus solides ont resiste a l'etrange cataclysme"
+#@231165-111=
+
+# "Je ne crois pas qu'il soit en mesure de te repondre"
+#@231277-51=
+
+# "Le visage crispe et terrorise, la jeune femme tente de vous parler. Trop faible pour vous murmurer le moindre mot, elle se refugie dans le silence"
+#@231329-146=
+
+# "La demoiselle ne semble pas tres interessee par vos propos"
+#@231476-58=
+
+# "Honga ! Honga !"
+#@231535-15=
+
+# "Vous ne recevez comme reponse que de vagues grognements"
+#@231551-55=
+
+# "Vous barbotez gentiment dans l'eau"
+#@231607-34=
+
+# "Vous entrez dans l'eau. Un courant violent vous emporte dans les profondeurs de la grotte..."
+#@231642-92=
+
+# "Heureusement pour toi, ces etres sont incapables de  te comprendre"
+#@231735-66=
+
+# "Heureusement pour toi, il est incapable de te comprendre"
+#@231802-56=
+
+# "Vous vous approchez de la jeune femme. Vous commencez par l'embrasser voluptueusement. Son regard rencontre le votre. Puis, petit a petit, vous touchez a l'essentiel..."
+#@231859-168=
+
+# "Satisfaite de vos prouesses, la jeune femme s'eclipse, en vous laissant une pirogue en cadeau"
+#@232028-93=
+
+# "Vous n'aviez pas assez d'energie. Vous mourrez de la plus belle facon qui soit"
+#@232122-78=
+
+# "Vous etes tres affectueux mais la demoiselle reste assez indifferente a ce type d'approche"
+#@232201-90=
+
+# "La jeune femme est tres touchee par ce geste d'amitie. Les larmes aux yeux, elle s'ecroule dans vos bras"
+#@232292-104=
+
+# "Vous etes bien inconscient. Le serpent s'enroule autour de vous et vous etouffe de sa puissante etreinte"
+#@232397-104=
+
+# "Les marecages sont des lieux rarement surs. Vous vous enlisez. Vous cherchez desesperement a agripper une branche mais il est deja trop tard"
+#@232502-140=
+
+# "Tu n'es pas ici pour degrader la nature"
+#@232643-39=
+
+# "Ce tronc d'arbre est beaucoup trop lourd pour vous"
+#@232683-50=
+
+# "Ainsi mort, le serpent ne pourra plus vous importuner. Vous assurant bien qu'il n'est plus vivant, vous le saisissez. Qui sait, le serpent peut avoir une chair tres tendre !"
+#@232734-173=
+
+# "Les insectes et les champignons ont deja pris possession des troncs d'arbre. Leur agonie ne fait que commencer."
+#@232908-111=
+
+# "Tu risques d'attraper plus de puces qu'autre chose..."
+#@233020-53=
+
+# "Vous avez de la chance, il y a du mammouth cru au menu. Vous trouvez aussi un silex et une hache"
+#@233074-96=
+
+# "Votre tentative est vaine. Vous etes pietine par le troupeau de mammouths"
+#@233171-73=
+
+# "Hey ! C'est une espece en voie de disparition (qui devrait d'ailleurs avoir deja disparu !). Alors, calme toi !"
+#@233245-111=
+
+# "Kong adore les femmes, vous devriez le savoir. Il n'apprecie guere que vous vous attaquiez a sa preferee et il vous saisit. Nous vous laissons imaginer la suite..."
+#@233357-163=
+
+# "Votre phaser detecte la presence des virus bacteriologiques. Un rayon desintegrateur vient frapper mortellement la jeune femme. Mission accomplie !"
+#@233521-147=
+
+# "Les insectes sont bien trop nombreux pour esperer les detruire dans leur totalite"
+#@233669-81=
+
+# "Tu veux remettre en cause nos plans ? Rappelle toi que nous sommes venus ici pour sauver les premiers hommes de l'humanite et non les tuer"
+#@233751-138=
+
+# "Vous ne faites que le chatouiller"
+#@233890-33=
+
+# "L'Homo-Sapiens reagit a vos attaques. Vous recevez un coup de massue sur la tete"
+#@233924-80=
+
+# "Les pierres sont tellement lourdes que vous n'arrivez meme pas a les deplacer"
+#@234005-77=
+
+# "Vous arrivez par bonheur a deplacer une pierre et a la faire basculer. Une legere ouverture vous ouvre le chemin de la liberte"
+#@234083-126=
+
+# "Vous ne possedez pas la force suffisante pour deplacer les pierres trop lourdes"
+#@234210-79=
+
+# "C'est un ouvrage destine a accueillir un feu et a l'entretenir. Elle disparut au debut du 21eme siecle."
+#@234290-103=
+
+# "Les cranes semblent mettre en garde les aventuriers trop curieux. Nous n'allons pas nous laisser impressionner par ce qui n'est qu'un vulgaire epouvantail"
+#@234394-154=
+
+# "Vous restez beat d'admiration devant l'eau du Loch Ness"
+#@234549-55=
+
+# "C'est Struff le gnome, joueur de cornemuse emerite.  Il est particulierement sensible a la musique"
+#@234605-98=
+
+# "Ce petit homme verdatre se nomme Stroff. C'est le gardien du chateau"
+#@234704-68=
+
+# "Tu ne reconnais pas Stroff, le gnome qui nous a accueillis lors de notre arrivee ?"
+#@234773-82=
+
+# "Leur apparence est bien inquietante"
+#@234856-35=
+
+# "On croirait les voir bouger..."
+#@234892-30=
+
+# "Cet escalier semble conduire sur les hauteurs du chateau"
+#@234923-56=
+
+# "C'est une des 8 tours du chateau"
+#@234980-32=
+
+# "Tu peux apercevoir le lac qui s'etend a l'horizon"
+#@235013-49=
+
+# "Elle est trop eloignee pour distinguer quoique ce soit"
+#@235063-54=
+
+# "Ces armures sont du XIeme siecle. Elles servaient a proteger les chevaliers ecossais"
+#@235118-84=
+
+# "Ce sont des plumes de geais"
+#@235203-27=
+
+# "Elle illumine etrangement la piece sans se consumer"
+#@235231-51=
+
+# "Cette torche eclaire l'escalier"
+#@235283-31=
+
+# "Vous decouvrez un kilt. Malgre les apparences, ce petit gnome est un etre bien desordonne"
+#@235315-89=
+
+# "C'est un lit du XIeme siecle, en bois tourne avec des rideaux et des draperies"
+#@235405-78=
+
+# "Les murs sont couverts de moisissures"
+#@235484-37=
+
+# "Vous distinguez les reflets de l'eau"
+#@235522-36=
+
+# "C'est Nessie, le monstre legendaire du Loch Ness"
+#@235559-48=
+
+# "Ces roches constituent le refuge de Nessie"
+#@235608-42=
+
+# "Ces cierges ont ete places autour de l'autel en l'honneur du Christ"
+#@235651-67=
+
+# "C'est une serrure en argent massif"
+#@235719-34=
+
+# "Il s'agit d'un lit en chene massif auquel il manque  un pied, ce dernier etant remplace par une cale."
+#@235754-101=
+
+# "J'ai comme l'impression que c'est Stroff qui dort ici"
+#@235856-53=
+
+# "Cette porte est en chene massif"
+#@235910-31=
+
+# "L'escalier est constitue de marches en granit"
+#@235942-45=
+
+# "La bibliotheque contient de nombreux ouvrages  anciens."
+#@235988-55=
+
+# "Il y a entre autres un livre traitant des pouvoirs de la Mandragore, une bible et un traite d'alchimie"
+#@236044-102=
+
+# "La bibliotheque laisse entrevoir un escalier qui s'enfonce dans l'obscurite"
+#@236147-75=
+
+# "Le frere Richard est un simple d'esprit qui passe son temps a traduire des manuscrits anciens et a decorer des ouvrages religieux"
+#@236223-129=
+
+# "C'est une traduction de l'Ancien Testament"
+#@236353-42=
+
+# "De la saucisse est suspendue dans la cheminee"
+#@236396-45=
+
+# "Sur la table se trouve un pichet de whisky"
+#@236442-42=
+
+# "Il s'appelle Argon. C'est l'alchimiste du chateau. Pauvre homme ! Il cherche deseperement un formule universelle pour transmuter les metaux"
+#@236485-139=
+
+# "C'est le celebre chateau d'Urquhart qui hante la region depuis plus d'un siecle"
+#@236625-79=
+
+# "Un vieil homme vit parmi ses grimoires et ses fioles. Il ne les delaisse que pour rendre visite a son venere maitre"
+#@236705-115=
+
+# "Je te conseille vivement de declencher ton phaser  afin de savoir si cet individu est un homme de Neuronix. Ses allures suspectes me font douter de ses origines ecossaises"
+#@236821-171=
+
+# "Les cendres sont encores toutes brulantes..."
+#@236993-44=
+
+# "Les arbres semblent murmurer. Mais ce n'est sans doute que le souffle du vent..."
+#@237038-80=
+
+# "Bonjour. Je suis Struff, le gnome musicien"
+#@237119-42=
+
+# "Bonjour ! Mon nom est Stroff. J'accueille les etrangers venant au chateau d'Urquhart. Je suppose que comme les autres, tu viens delivrer mon maitre de son mal. Il y a des annees qu'il est cloue au lit. Il espere toujours que quelqu'un pourra enfin l'aider."
+#@237162-256=
+
+# "Si tu veux m'aider..., etranger..., trouve moi... l'elixir de Grannon... Ses vertus curatives... me gueriront... du mal qui... me ronge."
+#@237419-136=
+
+# "Vous demandez au vieillard s'il n'a pas vu un homme. Il vous repond d'une facon enigmatique :"
+#@237556-93=
+
+# "Sache que dans le labyrinthe du chateau, lieu de refuge le plus sur pour l'homme que tu recherches, existent des murs illusions, qui ne te seront infranchissables que dans ton imagination !"
+#@237650-189=
+
+# "Sache qu'au fond de lui meme, Grannon detient les secrets de la magie ancestrale."
+#@237840-81=
+
+# "Il n'est pas en etat de te repondre"
+#@237922-35=
+
+# "Il a fait voeu de silence"
+#@237958-25=
+
+# "Trop absorbe par son travail, vous n'obtenez de lui qu'un vague grognement"
+#@237984-74=
+
+# "Je suis a la recherche de la pierre philosophale. Serais-tu en mesure de m'aider ?"
+#@238059-82=
+
+# "Il ne vous adresse pas la parole"
+#@238142-32=
+
+# "Surtout pas ! L'eau du lac est ensorcelee"
+#@238175-41=
+
+# "C'est ce que tu es en train de faire"
+#@238217-36=
+
+# "Elle est deja ouverte"
+#@238254-21=
+
+# "Stroff a pris le soin avant de se coucher, de fermer  a clef la porte de la chambre de son maitre"
+#@238276-97=
+
+# "C'est gentil de votre part mais j'ai deja le meme"
+#@238374-49=
+
+# "Etranger, tu es quelqu'un de bon. Je cherche ce grimoire depuis des annees. La formule de la transmutation des metaux y est peut-etre contenue. Grace a toi, j'ai une chance de trouver le remede universel."
+#@238424-204=
+
+# "Pour te recompenser, je suis pret a te donner mon amulette. Afin de m'assurer que tu es digne de cette recompense, je voudrais te poser une derniere question"
+#@238629-157=
+
+# "Comment s'appelle l'elixir qui guerira mon maitre a tout jamais ?"
+#@238787-65=
+
+# "Non merci ! Je n'ai besoin de rien"
+#@238853-34=
+
+# "Est-ce une plaisanterie ? Cette fiole est vide. Vous devriez avoir honte de vous moquer d'un mourant"
+#@238888-100=
+
+# "Le vieillard avale d'un seul trait l'elixir de Grannon. Les effets ne se font pas attendre : il retrouve ses forces et ses esprits et vous remercie chaleureusement."
+#@238989-164=
+
+# "Enchante, Nessie ouvre une gueule beante et provoque un courant d'eau puissant. Vous vous retrouvez aspire a l'interieur du monstre"
+#@239154-131=
+
+# "Je t'en prie, garde ton sang-froid et laisse ce  pauvre homme tranquille"
+#@239286-72=
+
+# "Il est fixe a la chaine"
+#@239359-23=
+
+# "En deplacant la bassine, vous vous apercevez qu'elle cachait un trou dans le sol"
+#@239383-80=
+
+# "Vous recouvrez le trou avec la  bassine"
+#@239464-39=
+
+# "Ceci serait un sacrilege"
+#@239504-24=
+
+# "Une trappe s'ouvre sous vos pieds"
+#@239529-33=
+
+# "Rien a faire, elle solidement fixee"
+#@239563-35=
+
+# "Vous entendez la gueule de Nessie se refermer derriere vous"
+#@239599-59=
+
+# "De la suie vous tombe sur le visage"
+#@239659-35=
+
+# "Tu risques de te perdre dans l'obscurite"
+#@239695-40=
+
+# "La flamme ne s'eteind pas. Elle est protegee par un sort magique. C'est la seule chaleur qui maintient en vie le maitre de ces lieux"
+#@239736-132=
+
+# "Les flammes vacillent mais ne s'eteignent pas"
+#@239869-45=
+
+# "Vous soufflez sur la flamme et vous l'eteignez"
+#@239915-46=
+
+# "Elle est deja eteinte"
+#@239962-21=
+
+# "Ne fais pas cela ! Sinon, tu risques de trebucher  dans l'escalier"
+#@239984-66=
+
+# "Vous en prenez plein les yeux"
+#@240051-29=
+
+# "En tirant sur l'anneau, vous soulevez une trappe dans la cheminee... Vous pouvez desormais descendre"
+#@240081-100=
+
+# "Vous vous brulez les mains..."
+#@240182-29=
+
+# "Mieux vaut ne pas vexer le gnome"
+#@240212-32=
+
+# "Les arbres vous repoussent, ils tiennent a garder leur intimite"
+#@240245-63=
+
+# "Je n'ai rien a cacher. Je cherche seulement un ami musicien"
+#@240309-59=
+
+# "Arrete ! Tu me chatouilles"
+#@240369-26=
+
+# "Elle est vide (il n'y a personne a l'interieur)"
+#@240396-47=
+
+# "Vous trouvez un medaillon"
+#@240444-25=
+
+# "Elle est vide a present"
+#@240470-23=
+
+# "Laquelle ?"
+#@240494-10=
+
+# "Elle est vide"
+#@240505-13=
+
+# "Il vous repousse"
+#@240519-16=
+
+# "Vous trouvez sur lui des friandises proteino-vitaminees. Ne pouvant pas resister a la tentation, vous les devorez avec gourmandise"
+#@240536-130=
+
+# "Outre par votre attitude, Struff disparait"
+#@240667-42=
+
+# "Il disparait dans un scintillement mysterieux"
+#@240710-45=
+
+# "Rappelle-toi que ta mission est de sauver les Hommes, non de les tuer"
+#@240756-69=
+
+# "Ne sois pas ridicule ! Il est plus fort que toi"
+#@240826-47=
+
+# "Ceci serait un sacrilege"
+#@240874-24=
+
+# "Quelle heureuse initiative ! Votre phaser detecte la presence du fameux virus AX-415 sur cet individu. Un rayon desintegrateur vient frapper mortellement le contamine. Vous pouvez etre satisfait de vous ! Le cours de l'histoire ne sera pas change"
+#@240899-246=
+
+# "La foret vous defend de profaner ses defunts"
+#@241146-44=
+
+# "Elle est scellee au mur"
+#@241191-23=
+
+# "Le lit est trop lourd. Il est absolument impossible de retirer la cale"
+#@241215-70=
+
+# "A l'aide de votre balai, vous enlevez les cendres de la cheminee"
+#@241286-64=
+
+# "Vous vous brulez les mains..."
+#@241351-30=
+
+# "La fontaine est remplie de chicha afin que l'astre brulant toujours assoiffe puisse se desalterer a sa guise"
+#@241382-108=
+
+# "Intipampa est un lieu unique pour ses richesses. Tout ici est en or, des pieces a la fontaine"
+#@241491-93=
+
+# "Si l'on se refere aux croyances incas, ce sont les larmes du soleil et de la lune"
+#@241585-81=
+
+# "Les murs sont en argent comme il en est ainsi dans tous les lieux de priere consacres a la lune. Le soleil, quant a lui, est symbolise par l'or"
+#@241667-143=
+
+# "Il est recouvert par des plaques d'argent. Une ouverture permet l'infiltration des rayons de lumiere, qui viennent eclairer le centre de la piece"
+#@241811-145=
+
+# "L'oeuf geant, qui se trouve au centre de la piece,  est le symbole de la fecondite. A travers cet huaca, les incas venerent la mere de l'empire"
+#@241957-143=
+
+# "C'est trop sombre pour distinguer quoique ce soit"
+#@242101-49=
+
+# "Si mes donnees historiques sont exactes,ce souterrain fait partie des lugubres labyrinthes de la forteresse Sacsahuaman"
+#@242151-119=
+
+# "Vetu d'un superbe uncu, cet individu en train de dormir m'a tout l'air d'un simple cayao"
+#@242271-88=
+
+# "La profondeur est trop importante pour esperer distinguer le moindre detail du fond de la riviere"
+#@242360-97=
+
+# "Vous distinguez assez nettement sous l'eau un element d'une clef en or. Desireux d'en savoir plus, vous saisissez l'objet"
+#@242458-121=
+
+# "Les bains royaux sont composes d'un large bassin. L'eau arrive des sources d'eau chaude par des tuyaux en or"
+#@242580-108=
+
+# "Les tuyaux sont en or"
+#@242689-21=
+
+# "Je te laisse le soin de tester si l'eau est vraiment chaude ou non. Moi, je prefere les bains d'huile. "
+#@242711-103=
+
+# "Tiens, c'est etrange, une chose scintille au fond de l'eau"
+#@242815-58=
+
+# "Desireux d'en savoir plus, vous saisissez l'objet"
+#@242874-49=
+
+# "Vous apercevez a travers la fenetre la Cordillere des Andes."
+#@242924-60=
+
+# "La porte est richement ornee, mais je ne parviens pas a en comprendre les symboles. Je vois aussi une sorte d'encave aux formes geometriques que nous appelons serrure"
+#@242985-166=
+
+# "Selon mon humble opinion, cette partie du souterrain est un lieu interdit. Ce sorcier et cette porte sont des obstacles presque impossibles a surmonter pour ceux qui n'en connaissent pas le secret et la presence"
+#@243152-211=
+
+# "C'est le grand sorcier de Cuzco. Dans ce monde, les sorciers jouissent d'un grand credit. Certains d'entre eux possederaient de grands pouvoirs magiques. Les faits les plus remarquables sont pretes a ces etres capables, dit-on, de se transformer en animaux"
+#@243364-256=
+
+# "Nous en saurons plus en entrant dans cette piece"
+#@243621-48=
+
+# "Cette piece remplie d'objets en or, dont de superbes keros et tamis, represente un spectacle etonnant. Tant de richesses me font tourner la tete. Qui a dit que les robots n'aimaient pas l'or ?"
+#@243670-192=
+
+# "Nous apercevons au loin la Cordillere des Andes, caracterisee par la Pouna et la Sierra. Pas un etre vivant, pas un arbre, pas un bruit ne se degage de ces immensites desertiques. C'est le pays du silence, de la monotonie et de la tristesse"
+#@243863-240=
+
+# "Ce lieu est desert. Quand il est anime, la plateforme devient une place de prieres et parfois de sacrifices, reservee a la famille imperiale et integree au palais du souverain Huascar"
+#@244104-183=
+
+# "On se demande comment de pareilles roches, dont certaines depassent 4 metres et pesent plus de 10 tonnes, ont pu etre mises en place sans outils perfectionnes. La legende veut que la plus grosse d'entre elles ait ete tiree a l'aide de "
+#@244288-235=
+
+# "cables par 20000 indiens et qu'elle en ait ecrase plusieurs milliers lorqu'elle vint a basculer lors de la montee"
+#@244524-113=
+
+# "La forteresse de Sacsahuaman est l'oeuvre de quatre architectes incas : Huallpa Rimachi, Marincachi, Acahuana, Huayna Capac. Elle fut commencee sous Pachacutec vers 1438 mais les travaux ne furent acheves que vers 1500, grace a 30000 ouvriers."
+#@244638-243=
+
+# "L'historien Pedro de Cieza de Leon, qui la vit a demi-detruite au milieu du XVIe siecle fut frappe par la grandeur de l'edifice. Plus tard, il pretendit que ni l'aqueduc de Segovie, ni le forum de Rome ne pouvaient rivaliser en majeste avec cette forteresse"
+#@244882-257=
+
+# "Les entrepots ne sont pas visibles de notre position. Je sais qu'il y est stocke le coton, les algues dessechees et le poisson seche et fume de la cote desertique, les plumes d'oiseaux, les feuilles de coca et le minerai d'or des jungles de l'Antisuyu"
+#@245140-251=
+
+# "Ce sont les gardes de l'armee imperiale de Huascar. Ils defendent fierement l'entree de la pucara"
+#@245392-97=
+
+# "Ils gardent l'entree du palais Huascar. Ils n'hesiteraient pas a se sacrifier pour accomplir leur devoir"
+#@245490-104=
+
+# "La place couvre une superficie de 10 acres. Huaycapata, situe dans le corps principal du puma (le coeur) est l'endroit de predilection des incas pour la celebration d'importants evenements et des grandes occasions d'Etat"
+#@245595-220=
+
+# "Ils sont trois. L'un joue du quena, un autre du manchaypuito et le dernier du wancar. Ils se repondent en improvisant avec un sens remarquable de la tonalite et de la mesure"
+#@245816-173=
+
+# "Les instruments qui composent la melodie sont au nombre de trois : une quena, une manchaypuito et une wancar"
+#@245990-108=
+
+# "La manchaypuito est faite de tubes en bois, juxtaposees et de differentes longueurs"
+#@246099-83=
+
+# "La quena est une tige de bambous percee de trous, d'une justesse parfaite. Elle tient la premiere place parmi les instruments de musique incas"
+#@246183-142=
+
+# "Sois plus precis, je te prie"
+#@246326-28=
+
+# "La wancar, sorte de grosse caisse, est faite avec la peau des ennemis morts"
+#@246355-75=
+
+# "Le palais est construit, comme la ville, d'apres des modeles d'argile. L'assemblage des pierres est realise avec une telle perfection que les saillants et les rentrants sont ajustes au millimetre"
+#@246431-195=
+
+# "L'ayullu est vetu d'un superbe uncu de Nazca. Le vetement mele de somptueuses couleurs et reproduit des motifs d'une incroyable complexite."
+#@246627-139=
+
+# "L'ayullu est paralyse pour de tres longues heures"
+#@246767-49=
+
+# "Nous sommes dans une rue etroite du centre de Cuzco"
+#@246817-51=
+
+# "Le temple de lune fait partie de Corincacha et se trouve en face de nous. C'est une des chapelles les plus venerees de l'enceinte. Nous en saurons plus en entrant dans le batiment"
+#@246869-179=
+
+# "Ce temple fait cohabiter deux idoles incas : Venus,  la planete "aux cheveux longs et boucles" et les pleiades, "servantes de la Lune". Il est ferme pendant toute la periode des fetes"
+#@247049-183=
+
+# "Le temple est ferme pendant la periode des fetes"
+#@247233-48=
+
+# "Ce batiment contient la "salle d'audience" des pretres, une sorte de "sacristie". Elle est fermee pendant toute la duree des ceremonies religieuses du Raymi"
+#@247282-156=
+
+# "Quel temple ?"
+#@247439-13=
+
+# "Cette fontaine fait partie des cinq fontaines qui se trouvent a Corincacha. Des canalisations souterraines amenent l'eau par des tuyaux en or"
+#@247453-141=
+
+# "Le palanquin est richement orne d'or et de  turquoises. Les ayulus et l'empereur lui-meme voyagent habituellement dans ces litieres portees par les plus hauts dignitaires de leur cour"
+#@247595-183=
+
+# "Le temple du Soleil est le plus grand batiment de la cite et le centre vital de l'empire Inca. Construit avec des blocs d'andesite parfaitement equarris, polis comme du marbre et ajustes sans mortier, le temple affecte la forme d'une pyramide tronquee"
+#@247779-251=
+
+# "Confortablement assis dans son palanquin, l'ayullu porte fierement dans sa main son arme favorite"
+#@248031-97=
+
+# "Dans une des niches se trouve un superbe lama en  terre cuite"
+#@248129-61=
+
+# "Ce jardin se trouve a l'interieur du palais de Huascar. Il est d'ailleurs reserve a la famille imperiale. Mais a cette heure, il est desert. L'empereur et sa suite sont partis assister aux ceremonies du Raymi"
+#@248191-208=
+
+# "C'est le grand-pretre de Cuzco. Il revient du Temple du Soleil ou a eu lieu la ceremonie des sacrifices. "
+#@248400-105=
+
+# "Il porte a son poignet un quipu et a son cou une bourse remplie de coca"
+#@248506-71=
+
+# "C'est la chapelle de la lune. Quilla est  symbolisee au centre de cette piece par un etrange oeuf geant"
+#@248578-103=
+
+# "La facade exterieure ne reserve aucune surprise, mais la visite de l'interieur devrait etre particulierement enrichissante"
+#@248682-122=
+
+# "La lune, symbolisee par l'argent, est la soeur et l'epouse du soleil, le dieu officiel des Incas, symbolise par l'or"
+#@248805-116=
+
+# "Des Antis reconnaissables a leurs plumes d'oiseaux piquees dans leur chevelure et des canaris caracterises par leurs cheveux tordus sur leur tete et a leurs couronnes de bois forment une joyeuse troupe de danseurs"
+#@248922-213=
+
+# "Ils apportent une note de fete supplementaire a Huaycapata"
+#@249136-58=
+
+# "L'Inca Huascar contemple le spectacle de la ceremonie religieuse du sacrifice. Il attend le verdict du grand-pretre qui jugera si le soleil est satisfait de l'offrande d'un lama noir"
+#@249195-182=
+
+# "L'Inca Huascar leve son kero de chicha en l'honneur  du Dieu Soleil et invite les ayullus autour de lui a partager le breuvage sacre. Chacun d'eux retourne l'invitation a l'empereur."
+#@249378-182=
+
+# "Ne pouvant reellement boire toutes les coupes qui se presentent a lui sans risque d'atteindre un stade d'intoxication malseant a un monarque, il se contente lui-meme de gouter le liquide avec ses levres,"
+#@249561-203=
+
+# "ou quelquefois de boire une gorgee selon son desir d'accorder une faveur a un haut dignitaire"
+#@249765-93=
+
+# "C'est un superbe lama noir, considere comme etant  plus parfait que les autres parce que son corps est d'une couleur uniforme tandis qu'un lama blanc a le museau noir. Il est tenu par deux indiens."
+#@249859-197=
+
+# "Un pretre, le couteau a la main, ouvre le corps de l'animal avant d'en decouper le coeur et les poumons afin de les examiner"
+#@250057-124=
+
+# "Il fait partie du conseil des neuf pretres de  l'empire inca. Il a ete charge par le vilcaoma d'organiser la ceremonie religieuse du sacrifice et de dechiffrer les messages des Dieux dans les entrailles du ou des lamas..."
+#@250182-221=
+
+# "Les momies du temple du soleil se presentent curieusement sous la forme de personnages debout, aussi semblables que possible a des etres vivants. Elles sont faites de tissus tres epais disposes de maniere a se maintenir dans une position verticale"
+#@250404-247=
+
+# "sans aucune charpente pour les soutenir. Elles ressemblent a de gros paquets d'etoffes avec une tete representee par une peau travaillee avec soin sur laquelle sont fixes bouche, nez, yeux, etc... Il est dit qu'elles contiennent chacune un cadavre recroqueville sur lui-meme"
+#@250652-274=
+
+# "Plonge dans un profond sommeil, l'indien ne vous entend pas"
+#@250927-59=
+
+# "Ils restent impassibles et ne vous regardent pas"
+#@250987-48=
+
+# "Ils se desinteressent totalement de vos propos et continuent a jouer et a danser"
+#@251036-80=
+
+# "Il menace d'appeler la garde si vous ne repartez pas d'ou vous venez, l'empire du mal selon lui"
+#@251117-95=
+
+# "Personne ne daigne tourner la tete en votre direction. Tous les regards se portent sur l'ayullu en palanquin. Dans ces conditions, il est difficile de vous preter attention"
+#@251213-172=
+
+# "Jeune insolent ! Qui te permet d'entrer dans notre chapelle ?"
+#@251386-61=
+
+# "Le respect du silence pendant la ceremonie des sacrifices etait la condition primordiale pour passer inapercu. Pour avoir transgresse les lois incas, l'empereur Huascar ordonne a ses gardes de vous expulser du temple du soleil"
+#@251448-226=
+
+# "Vous n'arrivez pas a approcher l'empereur Huascar, deja tres entoure par de nombreux ayullus"
+#@251675-92=
+
+# "Les gardes imperiaux vous saisissent . Il est decide que vous subirez le chatiment de la grosse pierre. Cela consiste a pousser un rocher d'environ 100 kg et de la laisser tomber d'une hauteur d'un metre sur le dos de l'inculpe"
+#@251768-227=
+
+# "Votre action constitue une offense envers l'Inca Huascar. Les gardes imperiaux s'emparent de vous et vous jettent du haut d'une falaise, non loin de Cuzco, selon les lois en vigueur"
+#@251996-181=
+
+# "Un peu de whisky vous fait du bien. Vous vous sentez regaillardi"
+#@252178-64=
+
+# "Vous n'avez plus de quoi apaiser votre soif. Le pichet est vide a present"
+#@252243-73=
+
+# "Il se trouve que c'est du chicha, boisson tres alcoolisee, que vous venez de boire. La tete vous tourne un peu"
+#@252317-110=
+
+# "Le chicha vous monte a la tete. Vous semblez perdre un peu vos esprits"
+#@252428-70=
+
+# "Je ne suis pas sur que l'eau du bain soit pure"
+#@252499-46=
+
+# "Vous vous desalterez avec plaisir"
+#@252546-33=
+
+# "Un ayullu vous offre une coupe de chicha que vous vous empressez de boire... L'alcool vous monte rapidement a la tete. RX-22, inquiet de vous voir dans un tel etat vous ordonne de rester sobre"
+#@252580-192=
+
+# "RX-22 vous avait prevenu. Il vous envoie une injonction telepathique de force 10"
+#@252773-80=
+
+# "Je m'en vais t'apprendre les bonnes manieres si tu continues a jouer les voleurs"
+#@252854-80=
+
+# "Garde la tete froide et selectionne exactement ce que tu veux prendre"
+#@252935-69=
+
+# "Les indiens vous repoussent violemment et promettent d'avertir les gardes imperiaux si vous recommencez a nouveau"
+#@253005-113=
+
+# "En offensant ces hommes, vous provoquez la colere de tous les indiens autour de vous. Vous vous debattez en vain et vous etes menes dans une Uatay Uaci Zancay ou il est dit que sont enfermes des animaux sauvages dont des serpents et des pumas"
+#@253119-242=
+
+# "Vous n'auriez jamais du oser affronter un inca, la foule indignee se jette sur vous. Vous succombez sous les coups violents et repetes diriges sur vous"
+#@253362-151=
+
+# "Elle semble desormais solidement fixee"
+#@253514-38=
+
+# "Le levier est coince"
+#@253553-20=
+
+# "La pierre qui se trouvait au-dessus de nous se met a basculer"
+#@253574-61=
+
+# "Ne sois pas ridicule ! Cette pierre est impossible a deplacer par nos propres moyens"
+#@253636-84=
+
+# "Ce temple est ferme pendant toute la periode de la ceremonie du Raymi"
+#@253721-69=
+
+# "Vous n'en avez pas les moyens"
+#@253791-29=
+
+# "A l'aide du paralysopulseur, vous ne laissez aucune chance au sorcier et vous le paralysez magistralement. Il restera dans cet etat de somnolence pendant de longues heures"
+#@253821-171=
+
+# "Vous n'en avez pas les moyens"
+#@253993-29=
+
+# "A l'aide du paralysopulseur, vous ne laissez aucune chance a l'ayullu. Il restera dans cet etat de somnolence pendant de longues heures"
+#@254023-135=
+
+# "Vous n'en avez pas les moyens"
+#@254159-29=
+
+# "Vous paralysez le grand-pretre"
+#@254189-30=
+
+# "Parmi les objets susceptibles de nous interesser, il  y a un kero, un tami, et de nombreuses pieces d'or !"
+#@254220-106=
+
+# "C'est fini, ces idioties ! Tu veux nous faire arreter ou quoi"
+#@254327-61=
+
+# "Jeune insolent ! Qui vous permet de me toucher ? "
+#@254389-49=
+
+# "Vous trouvez sur lui du sancu"
+#@254439-29=
+
+# "Je crois apercevoir, cache dans la penombre, un levier. Serait-ce un mecanisme d'ouverture ?"
+#@254469-92=
+
+# "Vous trouvez sur lui des u'yaca, une bezoard, des herbes et un element d'une clef"
+#@254562-81=
+
+# "Quelle idee geniale tu as eue d'utiliser ton phaser. Cet individu a l'apparence d'un inca etait, en fait, un de ces hommes que nous recherchons a travers le temps. "
+#@254644-164=
+
+# "Nous pouvons quitter Cuzco avec la conscience tranquille. L'empire Inca et son empereur sont sauves !"
+#@254809-101=
+
+# "Vous decouvrez sur le sol un element de clef en or"
+#@254911-50=
+
+# "Votre tentative n'a pas ete assez prompte. L'homme, qui en fait ne faisait que sommeiller, reagit et vous assenne un coup mortel"
+#@254962-128=
+
+# "La maniere forte est inutile avec ce genre de personnage. "
+#@255091-58=
+
+# "Utilise plutot ton paralysopulseur"
+#@255150-34=
+
+# "En agissant de la sorte, vous vous conduisez comme un irresponsable ! Votre manque de scrupules vous est fatale ! Deux hommes armes se jettent sur vous. Huascar ordonne que que vous subissiez le chatiment de "la grosse pierre ""
+#@255185-228=
+
+# "Tant que la majeure partie du pont sera immergee, je ne pourrai pas te donner plus de precisions"
+#@255414-96=
+
+# "C'est un vieux pont en bois du siecle dernier. La moisissure commence a le ronger"
+#@255511-81=
+
+# "La profondeur est trop importante pour esperer distinguer le moindre detail du fond de la riviere"
+#@255593-97=
+
+# "La pancarte indique "FERME"."
+#@255691-28=
+
+# "Les murs sont recouverts de laque. Cette decoration montrant un canard devient ainsi un veritable objet d'art"
+#@255720-109=
+
+# "C'est le nanushi Okoki, illustre bugyo du village de Saroka de la province de Musashi. Il jouit d'une haute autorite dans le village et ses environs"
+#@255830-148=
+
+# "Au japon, de nombreux lieux sont consacres a l'adoration de la nature et aux cultes religieux. Ce sanctuaire destine a Inari rappelle aux habitants la place importante qu'ils doivent vouer a la veneration du dieu du riz : Inari"
+#@255979-227=
+
+# "En harmonie avec le jardin et la surface de l'eau, elle porte le nom poetique de "lanterne pour regarder la neige", yu kimi-doro. Elle conserve dans son utilite materielle un element de mystere, rappelant une evocation silencieuse de la presence des ames"
+#@256207-254=
+
+# "Un paysage japonais ne saurait se concevoir sans la presence de l'eau. Elle apporte des elements de vie et de fraicheur indispensables a l'harmonie du decor du jardin"
+#@256462-166=
+
+# "Patine par les ages, le petit pont de bois enjambe la piece d'eau et conduit le flaneur a des coins beaucoup plus broussailleux, inaccessibles a l'homme"
+#@256629-152=
+
+# "Tout jardin japonais possede des pierres dont les couleurs et les asperites jouent dans l'humidite ou le ruisselement des pluies. La pierre n'est pas seulement un element esthetique : elle est consideree comme une matiere animee, receptacle d'une ame"
+#@256782-250=
+
+# "La grenouille nous regarde avec un air d'insouciance et de tranquillite. Serait-ce une grenouille apprivoisee ?..."
+#@257033-114=
+
+# "Nishinomaru est le centre d'un ensemble palatial construit grace aux contributions de tous les vassaux du shogun. La tour domine la ville de ses 80 metres. Ses tuiles metalliques, modelees en feuille de plomb, sont aussi eblouissantes que la neige du Mont Fuji"
+#@257148-260=
+
+# "Le chateau s'abrite derriere 16 kms de remparts et de douves, surmontes d'une vingtaine de tours. Cinq portes seulement fortement gardees, donnent acces a ce camp retranche. Dans cette enceinte demeure le shogun, les membres du gouvernement et de nombreux daimyos"
+#@257409-263=
+
+# "Tant que nous serons aussi eloignes des portes, je ne serais pas en mesure de te donner des precisions"
+#@257673-102=
+
+# "De qui parles-tu ? Ne sais-tu pas que le theatre Kabuki est compose exclusivement d'hommes suite a la decision du shogun Iemitsu en 1629 d'interdire toute presence feminine sur scene. Pourtant la creatrice de ce theatre serait une femme nommee O-kuni"
+#@257776-250=
+
+# "Habillee d'un kimono d'onna-budo superbement orne  d'un obi, une jeune femme prepare le cha-no-yu"
+#@258027-97=
+
+# "Si je ne me trompe pas, la jeune femme porte bien une boucle d'oreille ! Or, il n'est indique dans aucune de mes donnees que la japonaise du XVIIeme siecle connaissait ce genre de bijou"
+#@258125-185=
+
+# "Je suis desole mais le yamato-e est un mode d'expression artistique qui m'echappe un peu"
+#@258311-88=
+
+# "C'est un ronin arme jusqu'aux dents. Ce genre de samourai devient en temps de paix une classe sans occupations. Sous le couvert d'anciennes croyances, le ronin n'hesite pas en effet a commettre des mefaits en tous genres"
+#@258400-220=
+
+# "Sache que leurs sabres sont des Muranasa. Ils sont capables de trancher les casques les plus solides. On chuchote que ces armes sont assoiffees de sang et que ceux qui les possedent deviennent fous, tuant beaucoup de monde, avant de se suicider"
+#@258621-244=
+
+# "Un chemin conduit dans les bois. Mais un ronin se dresse sur notre passage"
+#@258866-74=
+
+# "Si je me refere a mes donnees sur le plan des maisons de nobles, la demeure doit se diviser en 2 parties : la partie nord inaccessible ou se deroule la vie quotidienne et la partie sud, accessible, reservee aux receptions et aux ceremonies"
+#@258941-239=
+
+# "Pour mieux resister aux jishins, les maisons n'ont  pas de fondations. Elles se dressent sur un cadre de bois pose a meme le sol. Leur charpente, assemblee par des chevilles peut se deformer sans se briser. Les toits sont recouverts de tuiles"
+#@259181-242=
+
+# "Les commerces sont trop nombreux pour que je puisse t'en donner la liste. De toutes manieres, je ne suis pas sur que tous accepteraient les etrangers dans leur boutique"
+#@259424-168=
+
+# "Il s'appelle Kuniratado et il est le proprietaire de ce magasin de masques No"
+#@259593-77=
+
+# "Il y a tout un choix de masques No. Cela va du simple masque Naki-Masu au masque plus excentrique Ko-Tengu. Ils montrent d'innombrables facettes du visage humain. Ces masques sont concus afin de traduire les emotions par simple modification de l'eclairage"
+#@259671-255=
+
+# "Nihonbashi, a partir duquel sont calculees toutes les distances, est le plus long pont du Japon avec ses 175 metres. Il est entierement construit en bois"
+#@259927-153=
+
+# "La Sumida est un fleuve aux cours tumultueux qui se jette dans la baie de Tokyo apres avoir traverse la partie est de la capitale"
+#@260081-129=
+
+# "Je ne voudrais pas me prononcer trop vite, mais ce chateau qui rayonne au centre de la ville doit etre celui d'Edojo"
+#@260211-116=
+
+# "Ouvre bien les yeux, tu as en face de toi la demeure seigneuriale du grand Shogun Iemitsu. Cette oeuvre architecturale unique au Japon force l'admiration par sa beaute"
+#@260328-167=
+
+# "Iemitsu medite sur l'avenir de son pays. Quel dommage de ne pouvoir entrer en contact avec lui"
+#@260496-94=
+
+# "Yorimoto est marchand de manjus et de sushis. Chaque jour, il se rend au marche pour proposer ses produits. Il vit durement pour nourrir sa famille. Quand il n'a plus de problemes avec les autorites, ce sont les ronins qui pillent sa boutique ambulante"
+#@260591-252=
+
+# "Yorimoto est le proprietaire de cette boutique ambulante. Il vend, pour une somme modique, des sushis et des manjus"
+#@260844-115=
+
+# "La boutique est fermee"
+#@260960-22=
+
+# "Nous n'avons plus rien a craindre ! Le ninja est paralyse pour de longues heures !"
+#@260983-82=
+
+# "Le ninja est arme jusqu'aux dents et semble decide a te faire sentir la finesse de sa lame... Je crois que nous avons du le surprendre dans sa tache de metsuke, qui est de surveiller les daimyos"
+#@261066-194=
+
+# "C'est la riviere Sagi qui se jette dans l'Ocean Pacifique"
+#@261261-57=
+
+# "Fiere de ses 200000 habitants, Edo "la ville-chateau" est le siege du bakufu. Son plan, appele plan en no, presente la particularite d'etre dispose en spirale, comme une coquille d'escargot, dont le centre est le chateau"
+#@261319-220=
+
+# "La grande voie cotiere de Tokaido prend fin a Edo, au Nihonbashi, d'ou rayonnent les cinq grandes routes de l'empire"
+#@261540-116=
+
+# "C'est la baie d'Edo. Ne sais-tu pas que la capitale est un grand port de l'Ocean Pacifique ?"
+#@261657-92=
+
+# "Cet homme est un tsugibikyaku. Il a pour mission de communiquer une lettre a chacun des 53 relais de la route de Tokaido."
+#@261750-121=
+
+# "En ce moment, il reprend son souffle avant de repartir"
+#@261872-54=
+
+# "Il est paralyse pour de tres longues heures"
+#@261927-43=
+
+# "Le Mont Fuji, a la difference des autres volcans de l'archipel, se dresse au fond d'une cuvette. Il semble jaillir d'une plaine qui s'etend a l'infini. Le contraste entre le sommet et les pentes de cendres confere a sa cime la majeste d'une demeure divine"
+#@261971-255=
+
+# "Le daimyo est accompagne de sa famille et de ses fideles. Ses samourais veillent au bon deroulement de la procession. Ce long cortege ressemble a une parade militaire et rappelle a la population le pouvoir et l'autorite des grands seigneurs"
+#@262227-240=
+
+# "Les samourais arborent fierement sur leurs montures  le mon respectif de leur daimyo. Devoues entierement a la cause de leur maitre, ils se sacrifieraient pour eux"
+#@262468-163=
+
+# "Tokaido, "la voie de la mer orientale", est une  grande route de 514 kms reliant Kyoto a Edo constituee de 53 etapes signalees par des relais"
+#@262632-141=
+
+# "L'armoirie symbolise le han du daimyo"
+#@262774-37=
+
+# "Le fermier Kinagusa laboure avec peine le champ de  son seigneur. Il travaille en souffrant en silence. Kinagusa a conscience que ses enfants ne doivent pas partager sa vie. Quant a lui, il se resigne. Dans quelques annees, il ne sera plus bon a rien"
+#@262812-250=
+
+# "Je ne suis pas en mesure pour l'instant de te donner des informations detaillees sur le village de Saroka"
+#@263063-105=
+
+# "Il semble dans un etat de fatigue physique et mentale deja bien avancee"
+#@263169-71=
+
+# "Saroka est un hameau d'une dizaine de maisons de la province de Musashi. Le nanushi du village s'appelle Okoki : il est l'antenne administrative du bakufu pour Saroka et ses environs. Peut-etre peut-il nous aider"
+#@263241-212=
+
+# "Des hommes se prelassent, goutant aux joies de l'eau chaude des bains"
+#@263454-69=
+
+# "Delicatement habillee en kimono, une geisha, un eventail a la main vous souhaite la bienvenue dans l'etablissement"
+#@263524-114=
+
+# "Je n'aurais pas trop confiance en la qualite de  l'eau. Les bains ont la reputation de developper la propagation des maladies"
+#@263639-125=
+
+# "En qualite de responsable des affaires civiles, Rifo, le machi-bugyo d'Edo se sert un the avant d'etudier le lourd dossier des mesures de repression envers les gangs"
+#@263765-165=
+
+# "Le pauvre homme est atteint du cholera, maladie contagieuse tres repandue au Japon, caracterisee par des vomissements frequents, une soif intense et un amaigrissement rapide. La mort n'est plus qu'une question de jour pour lui"
+#@263931-226=
+
+# "C'est un des nombreux pousse-pousses de la ville. Celui-ci va en direction de Shinagawa"
+#@264158-87=
+
+# "Kyotmitso est le responsable de Shinagawa, le 53eme  et dernier relais de Tokaido. Il a pour charge d'accueillir les voyageurs et de leur apporter les services dont ils ont besoin"
+#@264246-179=
+
+# " Shinagawa est le 53eme et dernier relais de Tokaido. Le relais offre divers services adaptes aux besoins des voyageurs. Il permet au bakufu de controler la circulation des hommes, des biens et des capitaux a l'interieur du royaume"
+#@264426-231=
+
+# "Les chevaux sont a la disposition du voyageur. Pour un prix modique de 500 kokus (100 pieces d'argent), ils peuvent rendrent de grands services"
+#@264658-143=
+
+# "Elles sont aussi eblouissantes que la neige du Mont Fuji"
+#@264802-56=
+
+# "C'est un kami"
+#@264859-13=
+
+# "Cette race de chat est hautement prisee au Japon. Sa particularite reside dans le fait que l'animal possede deux yeux de couleurs differentes. L'un est jaune, l'autre vert symbolisant ainsi l'or et l'argent"
+#@264873-206=
+
+# "Un eventail est pose sur la table"
+#@265080-33=
+
+# "Stoiques et imperturbables, les samourais d'elite,  les yorikis, gardent l'entree de l'appartement du shogun. "
+#@265114-110=
+
+# "Quel est le but de votre visite, noble etranger ?"
+#@265225-49=
+
+# "Que desires-tu a nouveau , noble etranger ?"
+#@265275-43=
+
+# "Tu veux plaisanter ? Tu as deja vu des lanternes parler ?"
+#@265319-57=
+
+# "Est-ce vous qui nous avez emprunte le costume du personnage d'onna-budo ? Nous en avons besoin pour la fin du spectacle et nous ne parvenons pas a le retrouver"
+#@265377-159=
+
+# "Nous allons abandonner nos recherches et nous  resoudre a jouer sans le costume du personnage d'onna-budo mais avec un substitut"
+#@265537-128=
+
+# "Il clame a haute voix que son maitre Kuniratado possede le plus etonnant magasin de masques d'Edo"
+#@265666-97=
+
+# "Personne ne vous prete attention"
+#@265764-32=
+
+# "J'ai pour vous, noble etranger, un superbe masque No appele Ko-omote. Je suis desole de ne pas pouvoir vous proposer une plus large gamme de produits mais j'attends une importante livraison de Yokohama"
+#@265797-201=
+
+# "Je suis desole, je n'ai plus de masques Ko-omote en stock"
+#@265999-57=
+
+# "10 kokus (2 pieces d'argent) pour mes manjus."
+#@266057-45=
+
+# "20 kokus (4 pieces d'argent) pour mes sushis."
+#@266103-45=
+
+# "Combien de sushis ou de manjus pour vous, monsieur ?"
+#@266149-52=
+
+# "Il est impuissant a vous parler"
+#@266202-31=
+
+# "Fais attention noble etranger ! La riviere Sagi est  en folie. Elle a failli m'emporter. Ce n'est pas pour ma vie que j'ai eu peur, mais pour la lettre que je dois communiquer a chacun des 53 relais de la route de Tokaido. Rien ne doit arreter ma mission"
+#@266234-254=
+
+# "Le daimyo est actuellement tres occupe... Il ne peut pas vous recevoir"
+#@266489-70=
+
+# "Notre daimyo ne peut pas te recevoir, il est actuellement tres occupe"
+#@266560-69=
+
+# "Bonjour, je m'appelle Kinagusa. Comme tu peux le  voir, je suis un pauvre paysan. Ne va pas croire que nous sommes respectes nous, les fermiers. On nous considere comme des machines a produire le riz. Cette situation a assez dure."
+#@266630-230=
+
+# "Avec l'aide de paysans chretiens, nous allons nous revolter. Si tu rencontres certains de nos amis, dis-leur qu'il est temps de s'organiser. Nous en avons assez de l'esclavage !"
+#@266861-177=
+
+# "Dans son delire, le vieillard recite un haiku a votre intention :"
+#@267039-65=
+
+# "          Par le masque no"
+#@267105-26=
+
+# "          De Kuniratado"
+#@267132-23=
+
+# "          Nijo, centre d'Edo"
+#@267156-28=
+
+# "          L'eclat de l'or"
+#@267185-25=
+
+# "          Et du turquoise"
+#@267211-25=
+
+# "          Donne la force"
+#@267237-24=
+
+# "          Au Toshi"
+#@267262-18=
+
+# "Le vieillard est parti dans des delires qui ne presentent aucun interet"
+#@267281-71=
+
+# "Il vous murmure des mots incomprehensibles"
+#@267353-42=
+
+# "On m'appelle Isha, la geisha. Je suis a la  disposition des clients de la maison"
+#@267396-80=
+
+# "Ils parlent dans un argot japonais completement incomprehensible"
+#@267477-64=
+
+# "Je vais en direction de Shinagawa. Voulez-vous que je vous y depose ? Il vous en coutera seulement 50 kokus (10 pieces d'argent)"
+#@267542-128=
+
+# "Il tente de vous parler, mais en vain"
+#@267671-37=
+
+# "Que desires-tu acheter noble etranger ? Un cheval : 500 kokus (100 pieces d'argent), un jambon fume : 40 kokus (8 pieces d'argent), un peu de sake : 15 kokus (3 pieces d'argent), ou du poisson : 30 kokus (6 pieces d'argent)"
+#@267709-223=
+
+# "Peut-etre preferes-tu te reposer ? Il t'en coutera  100 kokus (20 pieces d'argent)"
+#@267933-82=
+
+# "Un courant violent vous emporte. Sur la berge, votre compagnon agite le bras desesperement. C'est votre derniere vision de ce monde. Vous vous noyez"
+#@268016-148=
+
+# "Apres un saut d'une dizaine de metres, vous penetrez dans l'eau froide et glacee du printemps de la Sumida. Vous etes congestionne"
+#@268165-130=
+
+# "L'eau est certes delicieuse, mais c'est un veritable bouillon de culture. Vous contractez un microbe"
+#@268296-100=
+
+# "Vous bafouez l'honneur des hollandais pourtant les plus respectes au Japon, en osant vous defier a cet illustre bugyo. Un samourai sort de l'ombre et intervient, sabre en avant, pour sauver son maitre. Blesse mortellement, vous vous ecroulez sur le sol"
+#@268397-252=
+
+# "Vous recevez en echange des insultes en japonais"
+#@268650-48=
+
+# "Il est trop faible pour accepter la moindre offrande de votre part"
+#@268699-66=
+
+# "Un seul certificat suffit pour voyager le long de la route de Tokaido. Vous n'avez donc pas besoin d'en acheter un autre"
+#@268766-120=
+
+# "Vous n'avez pas assez d'argent"
+#@268887-30=
+
+# "Okoki vous remet le certificat de circulation contre 15 pieces d'argent et vous souhaite bonne route"
+#@268918-100=
+
+# "Le nanushi n'accepte que les pieces officielles en argent"
+#@269019-57=
+
+# "Vous n'avez pas assez d'argent"
+#@269077-30=
+
+# "Vous donnez au marchand 20 pieces d'argent, le prix a payer pour avoir un masque Ko-omote"
+#@269108-89=
+
+# "Il vous en coute cinq pieces d'or. Kyotmitso vous remet un superbe masque Ko-omote et vous remercie"
+#@269198-99=
+
+# "Quelle sorte de pieces ?"
+#@269298-24=
+
+# "Vous n'avez pas assez d'argent"
+#@269323-30=
+
+# "Dix pieces d'argent me suffiront."
+#@269354-33=
+
+# "Deux pieces d'or me suffiront"
+#@269388-29=
+
+# "Merci monsieur. En avant pour Shinagawa."
+#@269418-40=
+
+# "Le conducteur du pousse-pousse avait mal mesure les risques. En tentant de traverser la riviere, vous etes tous les deux entraines par un courant violent"
+#@269459-153=
+
+# "Vous arrivez a Shinagawa. La promenade etait bien agreable. Elle vous a en meme temps permis de vous reposer. Le pousse-pousse s'arrete a ce relais. Il vous laisse avant de repartir"
+#@269613-181=
+
+# "Quelle sorte de pieces ?"
+#@269795-24=
+
+# "Desole, nous n'acceptons que les pieces officielles  en argent"
+#@269820-62=
+
+# "Dites moi exactement ce que vous desirez acheter"
+#@269883-48=
+
+# "Merci."
+#@269932-6=
+
+# "Ne gaspilles pas ce qui t'appartient"
+#@269939-36=
+
+# "Vous n'avez pas assez de pieces d'argent"
+#@269976-40=
+
+# "Il vous en coute 100 kokus (20 pieces d'argent). Kyotmitso vous remet un superbe masque Ko-omote et vous remercie"
+#@270017-113=
+
+# "Soyez plus precis je vous prie"
+#@270131-30=
+
+# "La boutique est fermee"
+#@270162-22=
+
+# "Vous n'avez pas assez de pieces d'argent"
+#@270185-40=
+
+# "Il vous en coute 10 kokus (2 pieces d'argent) chaque."
+#@270226-53=
+
+# "Merci monsieur, au plaisir de vous revoir"
+#@270280-41=
+
+# "La boutique est fermee"
+#@270322-22=
+
+# "Vous n'avez pas assez de pieces d'argent"
+#@270345-40=
+
+# "Il vous en coute 20 kokus (4 pieces d'argent) chaque. "
+#@270386-54=
+
+# "Merci monsieur, au plaisir de vous revoir"
+#@270441-41=
+
+# "Voici votre poisson, monsieur. Que desirez-vous d'autre ?"
+#@270483-57=
+
+# "Voici votre jambon, monsieur. 40 kokus, merci. Que desirez-vous d'autre ?"
+#@270541-73=
+
+# "Voici votre cheval, monsieur. 500 kokus, merci.  Faites attention avant de monter dessus, il est assez nerveux. "
+#@270615-112=
+
+# "N'ecoutant que votre courage, vous montez sur le cheval. Celui-ci, un peu surpris se cabre violemment. Vous reagissez de maniere vigoureuse et vous le maitrisez temporairement"
+#@270728-175=
+
+# "Voici votre sake, monsieur. 15 kokus, merci. Que desirez-vous d'autre ?"
+#@270904-71=
+
+# "Il vous en coute 15 pieces d'argent. Okoki vous remet le certificat et vous souhaite bonne route"
+#@270976-96=
+
+# "Un seul certificat suffit a voyager le long de la route de Tokaido. Vous n'avez donc pas besoin d'un acheter un autre"
+#@271073-117=
+
+# "Votre acte irreflechi irrite profondement les acteurs Kabuki. L'un d'entre eux vous assene un coup au niveau du thorax qui ne vous laisse aucune chance de survie"
+#@271191-161=
+
+# "Les pillards ne sont pas aimes a Edo. "
+#@271353-38=
+
+# "Vous ne pouviez commettre plus mauvais mefait ! Un long sabre japonais transperce votre corps sans que de votre cote vous n'ayez eu le temps de reagir"
+#@271392-150=
+
+# "Contrairement aux apparences, il n'y a pas de femme ici"
+#@271543-55=
+
+# "Quel acteur ? Doka ou Yoshi ?"
+#@271599-29=
+
+# "Vous vous meprenez. Doka est un homme. Votre acte le deshonore. Sa colere est si grande qu'il vous assene un coup au niveau du thorax qui ne vous laisse aucune chance de survie"
+#@271629-176=
+
+# "Embourbe dans la riziere, vous ne pouvez plus faire un pas en avant"
+#@271806-67=
+
+# "Soyez plus precis"
+#@271874-17=
+
+# "Vous sautez avec legerete un a un les rondins de bois. Votre passage n'est pas sans deranger les quelques grenouilles de l'etang. Cachees sous les feuilles de nenuphars, elles vous regardent penetrer dans la demeure du shogun..."
+#@271892-228=
+
+# "Les pieds pleins de boue, nous arrivons dans le village Saroka"
+#@272121-62=
+
+# "Tu n'oserais tout de meme pas troubler la  tranquillite des pauvres villageois !"
+#@272184-80=
+
+# "Nous avons autre chose a faire que de rendre visite a des familles japonaises"
+#@272265-77=
+
+# "Vous n'en avez pas les moyens"
+#@272343-29=
+
+# "Le ninja, impuissant face a cette arme moderne, se retrouve paralyse"
+#@272373-68=
+
+# "Vous n'en avez pas les moyens"
+#@272442-29=
+
+# "Le tsugibikyaku n'a pas le temps de reagir a votre attaque. Il est frappe d'un rayon paralysant qui le rend impuissant"
+#@272472-118=
+
+# "Le ronin est plus vif que vous. A l'aide de son katana, il vous tranche la tete comme une pasteque"
+#@272591-98=
+
+# "Adresse-toi aux autorites competentes"
+#@272690-37=
+
+# "Je suis pret a te delivrer un certificat de circulation contre 15 pieces d'argent"
+#@272728-81=
+
+# "Desole, je ne peux repondre a ta requete"
+#@272810-40=
+
+# "Okoki appelle ses gardes qui vous jettent a l'exterieur"
+#@272851-55=
+
+# "Laisse-moi tranquille etranger !"
+#@272907-32=
+
+# "Des pots de maquillage sont poses sur des etageres au fond de la piece"
+#@272940-70=
+
+# "Vous trouvez sur lui un shuriken, des griffes, des makabishis et un parchemin de l'invisibilite"
+#@273011-95=
+
+# "Vous trouvez sur lui 40 pieces d'argent et une lettre cachetee"
+#@273107-62=
+
+# "Votre phaser detecte la presence du virus bacteriologique. Le rayon desintegrateur vient frapper mortellement la jeune femme. Felicitations, vous avez sauve la civilisation japonaise. Le cours de l'Histoire reste ainsi inchange"
+#@273170-227=
+
+# "Les agitateurs ne sont pas aimes a Edo. "
+#@273398-40=
+
+# "Le tsugibikyaku prend peur et s'enfuit"
+#@273439-38=
+
+# "Non, je te defend d'attaquer ce paysan. La revolte  qui gronde en lui fait partie de l'Histoire du Japon. N'as-tu jamais entendu parler de la revolte chretienne de Shimabara en 1537 ? Rappelle toi que nous devons eviter une modification du cours de l'Histoire"
+#@273478-259=
+
+# "Laisse le pauvre homme mourir en paix"
+#@273738-37=
+
+# "Tu ne veux tout de meme pas faire un carnage dans un pareil lieu ?"
+#@273776-66=
+
+# "Vous devriez reflechir avant d'agir. Les samourais de Kyotmitso sautent sur vous et mettent fin a vos jours"
+#@273843-107=
+

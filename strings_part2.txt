@@ -1,0 +1,375 @@
+ascii
+
+# "A jouer les equilibristes sur ce tronc d'arbre, nous risquons de connaitre quelques mesaventures. C'est vrai que le nid en face semble contenir une veritable mine de tresors, mais il serait dangereux de s'aventurer plus longtemps sur ce morceau de bois"
+#@297648-252=
+
+# "C'est gentil de la part de Kong de nous avoir depose pres de son abri. C'est pas qu'il sente mauvais, le bougre, mais je suis content qu'il soit parti chercher une autre compagnie"
+#@297901-179=
+
+# "Nous sommes dans le domaine de Kong. De nombreux etres ont du se refugier en vain dans cette grotte, sans en trouver une issue de sortie, restant ainsi le prisonnier de l'horrible monstre"
+#@298081-187=
+
+# "Ce precipice me donne le vertige. Ne t'inquiete pas, je ne tiens pas a perdre l'equilibre"
+#@298269-89=
+
+# "Le torrent termine sa course folle a cet endroit de la montagne. Il se jette dans la vallee ou il s'assagira"
+#@298359-108=
+
+# "La montagne offre vraiment des paysages de toute beaute. Vue des sommets, cette impression de sublime doit etre considerablement renforcee. Si la chance m'etait donnee a moi cyborg, de pouvoir escalader, je tenterais l'impossible pour atteindre le sommet"
+#@298468-254=
+
+# "Une assemblee d'hommes et de femmes se tient devant le feu. Tous ces etres, feminins en particulier, donnent l'impression d'etre terrorises, comme s'ils avaient ete confrontes a une force inconnue et malefique. Esperons que la maladie ne se soit pas deja propagee"
+#@298723-263=
+
+# "Nos peripeties le long d'une riviere souterraine se sont arretees ici. Notre embarcation a echoue pres d'une cascade. Si je ne craignais pas que mes circuits prennent l'eau, je resterais a contempler ce spectacle grandiose pendant des heures"
+#@298987-241=
+
+# "Les choses se gatent ! Un enorme gorille, qui n'est pas sans rappeler le legendaire King-Kong, se presente devant nous, l'air decide a nous attraper"
+#@299229-148=
+
+# "Nous nous trouvons dans une foret. C'est etrange tous ces arbres fracasses comme si une tempete s'etait abattue a cet endroit, ou comme si un animal geant avait tout ecrase sur son passage"
+#@299378-188=
+
+# "La Prehistoire offre reellement des paysages de contrastes etonnants. Ainsi, nous nous trouvons desormais dans une zone marecageuse. La vegetation est ici luxuriante"
+#@299567-165=
+
+# "Tu as le chic pour nous mettre toujours dans des situations perilleuses. Si tu restes plante la, tu vas offrir a cette tribu cannibale, dignement representee par son chef, un repas inespere..."
+#@299733-192=
+
+# "Selon moi, nous devons nous trouver dans "l'Enclos d'Or" Intipampa. Ce lieu sacre est unique pour ses richesses. Tout ici est en or, meme la fontaine. Tu peux imaginer la surprise de Pizzaro en 1533 quand il a decouvert cet endroit"
+#@299926-231=
+
+# "Nous sommes sur les hauteurs de Cuzco, face a la pucara de Sacsahuaman, la tete du puma. Cet edifice compose de trois murs eleves en zig-zag sert a la fois d'entrepot et de logement pour les garnisons de l'armee imperiale. Elle est gardee par deux guerriers"
+#@300158-257=
+
+# "Nous sommes au centre de Cuzco sur la grande place de Huaycapata, le coeur du puma. La ville de Cuzco est en pleine effervescence. La musique resonne a travers toute la capitale. Elle accompagnera les danses, les chants, les festins et les beuveries pendant 9 jours"
+#@300416-265=
+
+# "La fete du Raymi bat son plein. Les membres des ayullus imperiaux portes sur des palanquins se dirigent vers le temple du Soleil ou ils sont invites a assister aux differentes ceremonies. Aucune femme ne peut y entrer, sauf la Coya et la fille de l'Inca"
+#@300682-253=
+
+# "Deux guerriers gardent l'entree du palais de Huascar, l'un des six edifices imperiaux localises autour de Huaycapata. Celui-ci est habite, par contre les autres palais sont laisses a l'abandon avec les tresors respectifs des anciens empereurs incas"
+#@300936-248=
+
+# "Nous sommes dans l'enceinte d'or, Corincacha. Cette cour donne sur cinq chapelles : le temple de la lune, les temples consacres a Venus et aux Pleiades, a Illapa, au Cuychu, puis un dernier batiment contenant la "salle d'audience" des pretres"
+#@301185-242=
+
+# "Je n'en crois pas mes yeux. Cette piece abrite un tresor fabuleux, certainement l'un de ces lieux secrets que les espagnols ont tant cherche mais qu'ils n'ont jamais decouvert. Je reconnais en toi le heros de tous les temps"
+#@301428-223=
+
+# "Que cet endroit respire la fraicheur et la tranquillite ! Lieu de repos et d'enchantement du palais, le jardin est exclusivement reserve a la famille imperiale"
+#@301652-159=
+
+# "Nous penetrons dans Quilla, la chapelle de la lune. Mama Ocllo, la mere des indiens est ici symbolisee par un oeuf geant. La lune est encore plus priee que le soleil car elle apparait comme plus familiere, plus accessible que le soleil, dieu officiel"
+#@301812-250=
+
+# "Lieu de relaxation et de bavardage, les bains royaux sont, parait-il, tres apprecies par l'empereur Huascar. C'est en tous les cas un plaisir purement humain"
+#@302063-157=
+
+# "Nous sommes au coeur de l'Hatunrumiyoc dans les appartements de l'empereur Huascar. Cette piece est reservee a l'adoration des huacas. C'est etrange, le palais semble vide. La fete aurait-elle attire tous ses occupants a l'exterieur de la demeure imperiale"
+#@302221-256=
+
+# "Nous nous trouvons dans un de ces souterrains qui menent a la forteresse. "
+#@302478-74=
+
+# "D'apres notre position, et si je me refere a mes donnees, nous devons nous trouver sur une plateforme, lieu de prieres et parfois de sacrifices, reserve a la famille imperiale"
+#@302553-175=
+
+# "Nous penetrons dans la maison du nanushi Okoki, illustre bugyo du village de Saroka de la province de Musashi. Ses pouvoirs, que lui confere son poste sont immenses. Son influence est aussi tres grande"
+#@302729-201=
+
+# "La demeure du nanushi Okoki, symbole de l'autorite dans le village se dresse majestueusement devant nous. Si nous avons besoin de renseignements, c'est ici qu'il faut demander. Un bugyo pourra certainement nous aider"
+#@302931-216=
+
+# "Nous sommes dans le village de Saroka. Un vieillard est agenouille sur le sol, en train de mediter. Il semble dans un etat de fatigue physique et mentale deja bien avancee. Esperons qu'il pourra neanmoins nous aider"
+#@303148-215=
+
+# "La campagne japonaise est couverte de petits villages comme Saroka. L'exode rural a commence a frapper l'agriculture japonaise, la meilleure d'Asie, bien que les paysans aient l'interdiction de quitter la terre"
+#@303364-210=
+
+# "Depuis cette annee, suite a l'arrete shogunal sur le sankin-kotai des "lois pour les maisons", la route de Tokaido est le theatre d'un ballet incessant de daimyos, fudai ou tozama, venant accomplir leur devoir a Edo"
+#@303575-215=
+
+# "Kyotmitso, le responsable de Shinagawa, le 53eme et dernier relais de la route de Tokaido nous accueille chaleureusement. Selon les heures, le relais offre des services adaptes aux besoins du voyageur. Nous ferions bien d'en profiter"
+#@303791-233=
+
+# "Notre excursion le long de la route de Tokaido se poursuit."
+#@304025-59=
+
+# "La riziere, ta, donne a la campagne le facies caracteristique des pays de riziere avec des plans de culture disposes en terrasses s'etendant a l'infini.Non loin, au pied du Fuji Yama, un sanctuaire Inari casse la monotonie du paysage"
+#@304085-233=
+
+# "Quel idee t'a pris de t'ecarter de la route de Tokaido. Ne connais-tu pas l'expression : "Il ne faut pas devier du droit chemin". En attendant, veillons a nous sortir de ce mauvais pas car ce ronin en armes me parait bien determine a nous attaquer"
+#@304319-247=
+
+# "Edo, "l'embouchure du fleuve", autrefois ancien petit village de pecheurs, se presente a nous fiere et glorieuse. La capitale shogunale devient veritablement le coeur de la nation. Nul doute que la clef de notre enigme se trouve derriere les remparts de cette ville"
+#@304567-265=
+
+# "Edo nous ouvre ses portes. La ville connait une urbanisation sans precedent accompagnee d'une transformation des campagnes avoisinantes dont nombre d'enfants viennent grossir les rangs de l'artisanat. Mais parallelement, la pauvrete se developpe"
+#@304833-245=
+
+# "Les bains sont des lieux de delassement et de divertissement tres repandus dans les villes japonaises. Une hotesse fort charmante nous accueille et nous invite a gouter aux joies de l'eau chaude des bains"
+#@305079-204=
+
+# "Deux acteurs repetent dans les loges du theatre, leur role dans une jidai-mono dont le theme est shutan-ba. Le kabuki est un theatre danse et chante. Le spectacle populaire est un divertissement dont vous, humains raffolez. Nous les robots, on prefere jouer aux echecs"
+#@305284-268=
+
+# "Le marchand Kuniratado nous presente les plus beaux masques no de son magasin. Son meilleur compagnon s'appelle Oki et c'est un chat ! Vraiment je ne comprendrais jamais les humains : un chat, ca ne parle pas !"
+#@305553-210=
+
+# "La rue presente de jour comme de nuit une animation exceptionnelle. Ses commerces attirent la foule. "
+#@305764-101=
+
+# "Nous sommes sur le pont Nihonbashi, "le pont d'ou on voit le soleil se lever". N'entends-tu pas la Sumida qui gronde juste en dessous de nous ?"
+#@305866-143=
+
+# "Nous approchons du chateau d'Edo, residence du shogun et ensemble administratif. Edojo se dresse au coeur de la capitale comme le symbole du centre d'autorites du Japon. A n'en pas douter, Nishinomaru renferme des secrets que nul etranger ne pourra un jour percer"
+#@306010-263=
+
+# "Nous sommes devant le chateau d'Edo. Une porte etroitement gardee nous separe de Nishinomaru. "
+#@306274-94=
+
+# "Je n'en reviens toujours pas. Etre parvenu jusqu'au honmaru du chateau, cela tient reellement de l'exploit. Crois-moi, plus d'un Chonin reverait d'etre a notre place. Un kami nous regarde avec attention"
+#@306369-202=
+
+# "Au Japon, le jardin fait partie integrante de la demeure. N'es-tu pas sensible a la beaute de ce petit coin de fraicheur si harmonieusement arrange. Ses elements specifiques constituent autant de symboles exotiques. Crois-moi, les grenouilles apprecient"
+#@306572-253=
+
+# "Nous sommes dans les appartements seigneuriaux. Le grand shogun Tokugawa Iemitsu se tient agenouille face a nous. Quel dommage de ne pas pouvoir entrer en contact avec lui !"
+#@306826-173=
+
+# "Stoiques et imperturbables, les samourais d'elite, les yorikis, gardent l'entree de l'appartement du shogun. Heureusement pour nous, le shoji est ouvert"
+#@307000-152=
+
+# "Nous sommes dans l'appartement reserve aux femmes, lieu interdit aux hommes, mis a part le shogun lui-meme. Ne troublons pas la jeune personne qui prepare le cha-no-yu, ses mouvements gracieux sont tellement agreables a voir !"
+#@307153-226=
+
+# "Notre arrivee n'est pas passee inapercue. Les arbres de cette foret semblent temoigner d'une certaine agressivite a notre egard. Peut-etre cherchent-ils a nous barrer la route"
+#@307380-175=
+
+# "Nous sommes a l'interieur de la chapelle du chateau. Le plus grand silence et la plus grande sagesse sont requis dans ce lieu sacre"
+#@307556-131=
+
+# "Nous sommes dans la partie retiree de la chapelle. Un ecclesiastique realise patiemment les enluminures d'un ouvrage religieux"
+#@307688-126=
+
+# "Nous sommes face a la tour Dragor. Un vent glacial souffle sur les remparts. Je ne percois aucun signe de vie ici"
+#@307815-113=
+
+# "Nous sommes face a la tour Sarac. Un vent glacial souffle sur les remparts. Je ne percois aucun signe de vie ici"
+#@307929-112=
+
+# "Nous sommes dans un lieu obscur, a peine eclaire par une torche qui lutte pour ne pas mourir"
+#@308042-92=
+
+# "Nous traversons les halls du chateau. Le silence qui regne dans ces lieux sombres et humides me fait redouter le pire. Au bout de ce couloir se trouve une porte qui conduit a l'ouest"
+#@308135-182=
+
+# "Nous traversons les halls du chateau. Soyons prudents, ce chateau n'est pas sans receler quelques pieges ! Au bout du couloir se trouve une porte qui conduit a l'est"
+#@308318-165=
+
+# "Nous sommes devant la tour Baltar. Cette partie du chateau est inaccessible. Seuls quelques lierres sont parvenus a violer l'intimite de cet edifice de pierre"
+#@308484-158=
+
+# "Nous sommes victimes de l'un des multiples pieges de ce chateau, destines aux aventuriers trop curieux. Notre chute est lourde de consequences. Je crains que nous ne finissions nos jours dans ce trou noir car je ne detecte aucune issue possible"
+#@308643-244=
+
+# "Il s'agit de l'alchimiste du chateau. Pauvre homme, il cherche desesperement un moyen de transmuter les metaux. Tu peux me croire, je n'ai guere confiance en cette chimie ancestrale"
+#@308888-181=
+
+# "Ce lieu me semble etre une ancienne salle de torture. D'apres mes analyses, l'homme attache a la chaine est mort il y a plus de quinze ans, certainement a la suite de quelques sevices. Tout ceci me donne la chair de poule, si je puis m'exprimer ainsi"
+#@309070-250=
+
+# "Si ma vue est bonne, et si mes informations sont exactes, nous nous trouvons face a Nessie, le celebre monstre du Loch Ness lui-meme. Il vit dans une grotte protegee du reste du lac par un courant chaud"
+#@309321-202=
+
+# "Notre ballade au coeur de Nessie est passionante. Je n'imaginais pas qu'un tel monstre pouvait avoir des entrailles pareilles. Mon frere, Xero, ne me croira jamais quand je lui raconterai toutes ces aventures"
+#@309524-208=
+
+# "Notre exploration nous mene jusque dans les profondeurs du corps de Nessie. Ce cher animal semble avaler n'importe quoi, tel ce vieux coffre dont on se demande bien ce qu'il vient faire ici"
+#@309733-189=
+
+# "Au coeur du souterrain..."
+#@309923-25=
+
+# "Vous etes dans une salle de repos reservee au personnel de la base. Certains signes temoignent d'une presence recente... La salle communique avec l'etage inferieur par un elevator"
+#@309949-179=
+
+# "Vous etes au coeur du complexe scientifique consacre a l'etude de la teleportation dans le temps. Le systeme mis au point par les ingenieurs et les cyborgs de Neuronix s'appelle Transtemporix. On y accede par les portes du temps"
+#@310129-228=
+
+# "Nous sommes au pied de la montagne. Un amas de pierres obstrue l'entree d'une grotte. C'est etrange, je crois percevoir des cris qui, si je ne m'abuse, viendraient de l'interieur de cette caverne"
+#@310358-195=
+
+# "Nous sommes au pied de la montagne. Un amas de pierres obstrue l'entree d'une grotte mais une legere ouverture s'est formee"
+#@310554-123=
+
+# "Nous sommes devant l'entree d'une grotte. Un homme a l'aspect farouche et sauvage surveille les alentours. Pourquoi semble-t-il tant sur ses gardes ? Fais attention, ma confiance envers ces etres mi-homme mi-bete n'est pas absolue"
+#@310678-230=
+
+# "Nous sommes devant l'entree de la grotte. L'acces est libre desormais"
+#@310909-69=
+
+# "Cette grotte abrite une riviere souterraine. Je percois un bruit sourd de rapides"
+#@310979-81=
+
+# "Cette grotte abrite une riviere souterraine. La jeune femme a disparu "
+#@311061-70=
+
+# "Cette grotte abrite une riviere souterraine. Une jeune femme fort devetue goute aux joies de l'eau. Je percois un bruit sourd de rapides"
+#@311132-136=
+
+# "Cette grotte abrite une riviere souterraine. La jeune femme a disparu mais elle nous a laisse une pirogue. Je reconnais que te possedes vraiment des talents caches"
+#@311269-163=
+
+# "Nous changeons completement de decor : apres la montagne, la plaine, ou tout du moins la vallee. Nous avons tout interet a rester immobiles si nous ne voulons pas etre apercus par ce troupeau de mammouths"
+#@311433-204=
+
+# "Un vent de mort souffle sur la vallee. Les squelettes d'animaux forment le seul spectacle de ce paysage de cendres. La voie est desormais libre pour aller au nord"
+#@311638-162=
+
+# "Nous nous trouvons devant le chateau d'Urquhart. Ce personnage burlesque avec une cornemuse, m'a tout l'air d'un gnome. Il devrait nous aider a trouver une solution"
+#@311801-164=
+
+# "Nous nous trouvons devant le chateau d'Urquhart. Le gnome qui se terrait la a disparu comme par enchantement"
+#@311966-108=
+
+# "Nous nous trouvons devant le chateau d'Urquhart. Un passage glace s'est forme entre la berge et le chateau"
+#@312075-106=
+
+# "Nous sommes dans la cour du chateau. Nous avons droit au comite d'acceuil du chateau. Il semble constitue d'une seule et unique personne : une nouvelle fois, un gnome. Esperons qu'il sera aussi sympathique que Struff"
+#@312182-216=
+
+# "Nous sommes dans la cour du chateau. Le gnome Stroff a disparu"
+#@312399-62=
+
+# "Le chateau d'Urquhart se dresse devant nous. Malheureusement, une herse nous en interdit l'acces. Si nous avons un peu de chance, nous trouverons le mecanisme d'ouverture, s'il existe !"
+#@312462-185=
+
+# "Le chateau d'Urquhart se dresse devant nous et nous ouvre ses portes"
+#@312648-68=
+
+# "D'apres mes informations, cette piece est la chambre a coucher du gnome Stroff. J'ai toujours reve d'avoir une chambre comme celle-ci a moi tout seul. Enfin ce n'est qu'un fantasme de robot"
+#@312717-189=
+
+# "D'apres mes informations, cette piece est la chambre a coucher du gnome Stroff. D'ailleurs, c'est probablement lui qui est train de dormir en ce moment confortablement allonge dans son lit. Veillons a ne pas le reveiller"
+#@312907-220=
+
+# "L'homme couche dans le lit est le proprietaire du chateau. Il est atteint visiblement d'une grave maladie. C'est etrange, elle n'existe pas dans mes banques de donnees"
+#@313128-167=
+
+# "L'homme couche dans le lit est le proprietaire du chateau. Qu'il est bon de voir le maitre de la demeure recouvrer progressivement sa sante. La vie de son royaume pourra enfin retrouver son cours normal"
+#@313296-202=
+
+# "Nous sommes dans la salle du chateau. Elle est eclairee par un feu de cheminee ardent"
+#@313499-85=
+
+# "Nous sommes dans la salle du chateau. Tu ne trouves pas que la temperature a nettement rafraichi ici ?"
+#@313585-102=
+
+# "Nous pouvons desormais descendre par un escalier se trouvant dans la cheminee"
+#@313688-77=
+
+# "Une porte blindee vous interdit l'acces a l'exterieur de la base. Il regne dans cette piece une chaleur suffocante, voire meme malsaine. Ces machines ne sont certainement pas etrangeres a ce phenomene"
+#@313766-200=
+
+# "Vous avez l'acces libre pour sortir de la base"
+#@313967-46=
+
+# "Un vent glacial souffle sur l'Arctique. Un cyborg d'une race evoluee est pris dans un morceau de glace. Comment expliquer la presence de cet agent a l'exterieur de la base ? Se serait-il fait surprendre par le froid ?"
+#@314014-217=
+
+# "Un vent glacial souffle sur l'Arctique. Votre place n'est plus ici, vous devriez retourner dans la base"
+#@314232-103=
+
+# "Nous sommes dans l'une des cinq chapelles de "l'enceinte d'or", celle destinee aux prieres. Le grand-pretre, mecontent de notre presence, nous adresse des injures d'une rare vehemence"
+#@314336-183=
+
+# "Nous sommes dans l'une des cinq chapelles de "l'enceinte d'or", celle destinee aux prieres. Le grand-pretre est paralyse pour de longues heures"
+#@314520-143=
+
+# "Nous sommes toujours dans le souterrain. Un sorcier se tient devant nous comme s'il voulait nous interdire l'acces a cette mysterieuse porte. Ses yeux sont d'un eclat particulier... Attention, il tente de t'hypnotiser !"
+#@314664-219=
+
+# "Nous sommes toujours dans le souterrain. Grace a tes lunettes, nous ne risquons plus d'etre hypnotise. Mais le sorcier occupe toujours sa place de gardien de la porte et est pret a se defendre pour la garder"
+#@314884-207=
+
+# "Nous sommes toujours dans le souterrain. Le sorcier est paralyse. Profitons-en pour decouvrir le secret de cette porte"
+#@315092-118=
+
+# "Nous sommes toujours dans le souterrain. La porte est ouverte et le sorcier est paralyse"
+#@315211-88=
+
+# "Nous sommes a peine arrives qu'un obstacle se dresse deja devant nous : un ayullu d'abord effraye par ton aspect se ressaisit puis devient agressif. Il refuse de nous laisser passer"
+#@315300-181=
+
+# "Plus aucun obstacle a cet endroit ne nous empeche de poursuivre notre aventure a travers Cuzco. Sur notre droite se trouve l'ecole des Yacahuasi : elle est fermee"
+#@315482-162=
+
+# "Un escalier nous laisse esperer une sortie. Mais restons prudents, ce souterrain ne m'inspire pas confiance."
+#@315645-108=
+
+# "Une ouverture donnant sur l'exterieur ouvre l'acces vers des lieux moins obscurs. A en juger des differentes issues possibles, il faut croire que ce souterrain communique avec de nombreux edifices de Cuzco"
+#@315754-205=
+
+# "Un homme indique, a qui veut bien l'ecouter, l'entree du plus etonnant magasin de masques d'Edo"
+#@315960-95=
+
+# "Nous sommes sur une des plus grandes places d'Edo, situee non loin du port. De nombreux marchands animent le coin, en particulier un marchand de manjus et de sushis. J'aurais prefere pour mon repas une puce electronique, mais enfin !"
+#@316056-233=
+
+# "Nous sommes sur une des plus grandes places d'Edo, situee non loin du port. Le coin est vide, seule la rue reste animee a cette heure si tardive"
+#@316290-144=
+
+# "Un tsugibikyaku se repose sur le bord de la voie. Il reprend son souffle avant de repartir. Trempe comme il est, il peut se permettre une petite pause"
+#@316435-150=
+
+# "Nous nous trouvons dans les appartements shogunaux consacres aux affaires. Rifo, le machi-bugyo d'Edo se sert un the avant d'etudier le lourd dossier des mesures de repression envers les gangs qui se sont formes dans sa ville"
+#@316586-225=
+
+# "Nous nous trouvons dans les appartements shogunaux consacres aux affaires. Rifo, le machi-bugyo d'Edo est absent"
+#@316812-112=
+
+# "La riviere Sagi est sortie de son lit et a recouvert un vieux pont en bois. Le courant est trop violent et l'eau trop profonde pour esperer rejoindre l'autre rive sain et sauf. Et puis mes circuits ne supporteraient pas le choc"
+#@316925-227=
+
+# "La riviere Sagi est sortie de son lit et a recouvert un vieux pont en bois. Le courant est violent et l'eau profonde mais monte sur notre cheval, nous devrions surmonter cet obstacle naturel"
+#@317153-190=
+
+# "La riviere Sagi coule paisiblement dans son lit. Un petit pont de bois est accessible"
+#@317344-85=
+
+# "Un individu se tient agenouille a l'intersection de deux chemins opposes"
+#@317430-72=
+
+# "Un homme git sur le sol a demi-inconscient..."
+#@317503-45=
+
+# "Nous sommes a l'interieur du temple du Soleil. Nous assistons au sacrifice d'un lama noir, considere comme etant plus parfait que les autres car son corps est d'une couleur uniforme. L'empereur Huascar assiste a la ceremonie en compagnie de ses ayullus"
+#@317549-252=
+
+# "Nous sommes a l'interieur du temple du Soleil. Le grand-pretre a donne son verdict. Le Soleil est satisfait du sacrifice des lamas. La fete peut donc continuer. L'empereur Huascar invite tout le monde a boire du chicha en l'honneur du Dieu Inti"
+#@317802-244=
+
+# "Je ne sais pas si c'etait vraiment une bonne idee de monter dans l'arbre. Toujours est-il qu'un ninja, arme d'un katana, se presente devant nous en manifestant a notre egard une certaine agressivite. Reagis vite si tu ne veux pas qu'il mette ta vie en peril"
+#@318047-257=
+
+# "Le ninja est hors d'etat de nuire. Il ne pourra plus ainsi espionner le daimyo. Notre technique ne releve pas du Bushido, mais au moins c'est efficace"
+#@318305-150=
+
+# "Soyez plus precis"
+#@318456-17=
+
+# "A votre entree dans une des portes du temps non desactivee, vous declenchez le systeme de securite. Vous etes desintegre"
+#@318474-120=
+
+# "Precisez le numero de la porte"
+#@318595-31=
+
+# "erreur d'allocation buf_image_double"
+#@318744-37=
+
+# "Pas trouve le fichier musique
+"
+#@318844-30=
+
